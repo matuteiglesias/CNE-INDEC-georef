@@ -1,0 +1,533 @@
+in1,gid,provincia,departamen,nam
+06623,237,Buenos Aires,Pergamino,Pergamino
+06854,295,Buenos Aires,25 de Mayo,25 de Mayo
+06588,296,Buenos Aires,9 de Julio,9 de Julio
+06007,297,Buenos Aires,Adolfo Alsina,Adolfo Alsina
+06014,298,Buenos Aires,Adolfo Gonzales Chaves,Adolfo Gonzales Chaves
+06021,299,Buenos Aires,Alberti,Alberti
+06028,300,Buenos Aires,Almirante Brown,Almirante Brown
+06077,301,Buenos Aires,Arrecifes,Arrecifes
+06035,302,Buenos Aires,Avellaneda,Avellaneda
+06042,303,Buenos Aires,Ayacucho,Ayacucho
+06049,304,Buenos Aires,Azul,Azul
+06056,305,Buenos Aires,Bahia Blanca,Bahía Blanca
+06063,306,Buenos Aires,Balcarce,Balcarce
+06070,307,Buenos Aires,Baradero,Baradero
+06084,308,Buenos Aires,Benito Juarez,Benito Juárez
+06091,309,Buenos Aires,Berazategui,Berazategui
+06098,310,Buenos Aires,Berisso,Berisso
+06105,311,Buenos Aires,Bolivar,Bolívar
+06112,312,Buenos Aires,Bragado,Bragado
+06119,313,Buenos Aires,Brandsen,Brandsen
+06126,314,Buenos Aires,Campana,Campana
+06134,315,Buenos Aires,Cañuelas,Cañuelas
+06140,316,Buenos Aires,Capitan Sarmiento,Capitán Sarmiento
+06147,317,Buenos Aires,Carlos Casares,Carlos Casares
+06154,318,Buenos Aires,Carlos Tejedor,Carlos Tejedor
+06161,319,Buenos Aires,Carmen de Areco,Carmen de Areco
+06168,320,Buenos Aires,Castelli,Castelli
+06210,321,Buenos Aires,Chacabuco,Chacabuco
+06218,322,Buenos Aires,Lezama,Chascomús
+06224,323,Buenos Aires,Chivilcoy,Chivilcoy
+06182,339,Buenos Aires,Coronel de Marina L. Rosales,Coronel de Marina Leonardo Rosales
+06189,340,Buenos Aires,Coronel Dorrego,Coronel Dorrego
+06196,341,Buenos Aires,Coronel Pringles,Coronel Pringles
+06203,342,Buenos Aires,Coronel Suarez,Coronel Suárez
+06231,343,Buenos Aires,Daireaux,Daireaux
+06238,344,Buenos Aires,Dolores,Dolores
+06245,345,Buenos Aires,Ensenada,Ensenada
+06252,346,Buenos Aires,Escobar,Escobar
+06260,347,Buenos Aires,Esteban Echeverria,Esteban Echeverría
+06266,348,Buenos Aires,Exaltacion de la Cruz,Exaltación de la Cruz
+06270,349,Buenos Aires,Ezeiza,Ezeiza
+06274,350,Buenos Aires,Florencio Varela,Florencio Varela
+06277,351,Buenos Aires,Florentino Ameghino,Florentino Ameghino
+06280,352,Buenos Aires,General Alvarado,General Alvarado
+06287,353,Buenos Aires,General Alvear,General Alvear
+06301,354,Buenos Aires,General Belgrano,General Belgrano
+06308,355,Buenos Aires,General Guido,General Guido
+06315,356,Buenos Aires,General Juan Madariaga,General Juan Madariaga
+06322,357,Buenos Aires,General Lamadrid,General La Madrid
+06329,358,Buenos Aires,General Las Heras,General Las Heras
+06336,359,Buenos Aires,General Lavalle,General Lavalle
+06343,360,Buenos Aires,General Paz,General Paz
+06357,361,Buenos Aires,General Pueyrredon,General Pueyrredón
+06364,362,Buenos Aires,General Rodriguez,General Rodríguez
+06371,363,Buenos Aires,General San Martin,General San Martín
+06385,364,Buenos Aires,General Viamonte,General Viamonte
+06399,365,Buenos Aires,Guamini,Guaminí
+06406,366,Buenos Aires,Hipolito Yrigoyen,Hipólito Yrigoyen
+06408,367,Buenos Aires,Hurlingham,Hurlingham
+06410,368,Buenos Aires,Ituzaingo,Ituzaingó
+06412,369,Buenos Aires,Jose C. Paz,José C. Paz
+06413,370,Buenos Aires,Junin,Junín
+06420,371,Buenos Aires,La Costa,La Costa
+06427,372,Buenos Aires,La Matanza,La Matanza
+06441,373,Buenos Aires,La Plata,La Plata
+06434,374,Buenos Aires,Lanus,Lanús
+06448,375,Buenos Aires,Laprida,Laprida
+06455,376,Buenos Aires,Las Flores,Las Flores
+06466,377,Buenos Aires,Lezama,Lezama
+06469,378,Buenos Aires,Lincoln,Lincoln
+06476,379,Buenos Aires,Loberia,Lobería
+06483,380,Buenos Aires,Lobos,Lobos
+06490,381,Buenos Aires,Lomas de Zamora,Lomas de Zamora
+06497,382,Buenos Aires,Lujan,Luján
+06505,383,Buenos Aires,Magdalena,Magdalena
+06511,384,Buenos Aires,Maipu,Maipú
+06515,385,Buenos Aires,Malvinas Argentinas,Malvinas Argentinas
+06518,386,Buenos Aires,Mar Chiquita,Mar Chiquita
+06525,387,Buenos Aires,Marcos Paz,Marcos Paz
+06532,388,Buenos Aires,Mercedes,Mercedes
+06539,389,Buenos Aires,Merlo,Merlo
+06547,390,Buenos Aires,Monte,Monte
+06553,391,Buenos Aires,Monte Hermoso,Monte Hermoso
+06560,392,Buenos Aires,Moreno,Moreno
+06568,393,Buenos Aires,Moron,Morón
+06574,394,Buenos Aires,Navarro,Navarro
+06581,395,Buenos Aires,Necochea,Necochea
+06595,396,Buenos Aires,Olavarria,Olavarría
+06609,397,Buenos Aires,Pehuajo,Pehuajó
+06616,398,Buenos Aires,Pellegrini,Pellegrini
+06630,399,Buenos Aires,Pila,Pila
+06638,400,Buenos Aires,Pilar,Pilar
+06644,401,Buenos Aires,Pinamar,Pinamar
+06648,402,Buenos Aires,Presidente Peron,Presidente Perón
+06651,403,Buenos Aires,Puan,Puán
+06655,404,Buenos Aires,Punta Indio,Punta Indio
+06658,405,Buenos Aires,Quilmes,Quilmes
+06665,406,Buenos Aires,Ramallo,Ramallo
+06672,407,Buenos Aires,Rauch,Rauch
+06679,408,Buenos Aires,Rivadavia,Rivadavia
+06686,409,Buenos Aires,Rojas,Rojas
+06693,410,Buenos Aires,Roque Perez,Roque Pérez
+06700,411,Buenos Aires,Saavedra,Saavedra
+06707,412,Buenos Aires,Saladillo,Saladillo
+06721,413,Buenos Aires,Salliquelo,Salliqueló
+06714,414,Buenos Aires,Salto,Salto
+06728,415,Buenos Aires,San Andres de Giles,San Andrés de Giles
+06735,416,Buenos Aires,San Antonio de Areco,San Antonio de Areco
+06742,417,Buenos Aires,San Cayetano,San Cayetano
+06749,418,Buenos Aires,San Fernando,San Fernando
+06756,419,Buenos Aires,San Isidro,San Isidro
+06760,420,Buenos Aires,San Miguel,San Miguel
+06770,421,Buenos Aires,San Pedro,San Pedro
+06778,422,Buenos Aires,San Vicente,San Vicente
+06784,423,Buenos Aires,Suipacha,Suipacha
+06791,424,Buenos Aires,Tandil,Tandil
+06798,425,Buenos Aires,Tapalque,Tapalqué
+06805,426,Buenos Aires,Tigre,Tigre
+06812,427,Buenos Aires,Tordillo,Tordillo
+06819,428,Buenos Aires,Tornquist,Tornquist
+06826,429,Buenos Aires,Trenque Lauquen,Trenque Lauquen
+06833,430,Buenos Aires,Tres Arroyos,Tres Arroyos
+06847,431,Buenos Aires,Tres Lomas,Tres Lomas
+06861,432,Buenos Aires,Vicente Lopez,Vicente López
+06868,433,Buenos Aires,Villa Gesell,Villa Gesell
+06875,434,Buenos Aires,Villarino,Villarino
+06882,435,Buenos Aires,Zarate,Zárate
+06602,604,Buenos Aires,Patagones,Patagones
+06175,663,Buenos Aires,Colon,Colón
+06294,664,Buenos Aires,General Arenales,General Arenales
+06462,665,Buenos Aires,Leandro N. Alem,Leandro N. Alem
+06351,666,Buenos Aires,General Pinto,General Pinto
+06392,667,Buenos Aires,General Villegas,General Villegas
+06763,694,Buenos Aires,San Nicolas,San Nicolás
+06623,695,Buenos Aires,Pergamino,Pergamino
+06840,701,Buenos Aires,Tres de Febrero,Tres de Febrero
+10007,748,Catamarca,Ambato,Ambato
+10014,749,Catamarca,Ancasti,Ancasti
+10021,750,Catamarca,Andalgala,Andalgalá
+10028,751,Catamarca,Antofagasta de la Sierra,Antofagasta de la Sierra
+10035,752,Catamarca,Belen,Belén
+10042,753,Catamarca,Capayan,Capayán
+10049,754,Catamarca,Capital,Capital
+10056,755,Catamarca,El Alto,El Alto
+10063,756,Catamarca,Fray Mamerto Esquiu,Fray Mamerto Esquiú
+10070,757,Catamarca,La Paz,La Paz
+10077,758,Catamarca,Paclin,Paclín
+10084,759,Catamarca,Poman,Pomán
+10091,760,Catamarca,Santa Maria,Santa María
+10098,761,Catamarca,Santa Rosa,Santa Rosa
+10105,762,Catamarca,Tinogasta,Tinogasta
+10112,763,Catamarca,Valle Viejo,Valle Viejo
+22036,515,Chaco,12 de Octubre,12 de Octubre
+22039,516,Chaco,2 de Abril,2 de Abril
+22168,517,Chaco,25 de Mayo,25 de Mayo
+22105,518,Chaco,9 de Julio,9 de Julio
+22028,519,Chaco,Chacabuco,Chacabuco
+22021,520,Chaco,Comandante Fernandez,Comandante Fernández
+22049,521,Chaco,General Belgrano,General Belgrano
+22056,522,Chaco,General Donovan,General Donovan
+22070,523,Chaco,Independencia,Independencia
+22091,524,Chaco,Maipu,Maipú
+22119,525,Chaco,Presidencia de la Plaza,Presidencia de la Plaza
+22147,526,Chaco,San Lorenzo,San Lorenzo
+22154,527,Chaco,Sargento Cabral,Sargento Cabral
+22084,528,Chaco,Libertador General San Martin,Libertador General San Martín
+22014,529,Chaco,Bermejo,Bermejo
+22077,530,Chaco,Libertad,Libertad
+22112,531,Chaco,O'Higgins,O'Higgins
+22126,532,Chaco,1 de Mayo,1° de Mayo
+22063,646,Chaco,General Guemes,General Güemes
+22007,647,Chaco,Almirante Brown,Almirante Brown
+22133,648,Chaco,Quitilipi,Quitilipi
+22043,652,Chaco,Fray Justo Santa Maria de Oro,Fray Justo Santa María de Oro
+22098,653,Chaco,Mayor Luis J. Fontana,Mayor Luis J. Fontana
+22161,654,Chaco,Tapenaga,Tapenagá
+22140,697,Chaco,San Fernando,San Fernando
+26070,267,Chubut,Paso de Indios,Paso de Indios
+26063,268,Chubut,Martires,Mártires
+26042,269,Chubut,Gaiman,Gaiman
+26035,270,Chubut,Futaleufu,Futaleufú
+26014,271,Chubut,Cushamen,Cushamen
+26056,272,Chubut,Languiñeo,Languiñeo
+26098,273,Chubut,Tehuelches,Tehuelches
+26084,274,Chubut,Rio Senguer,Río Senguer
+26049,275,Chubut,Gastre,Gastre
+26105,276,Chubut,Telsen,Telsen
+26007,277,Chubut,Biedma,Biedma
+26077,278,Chubut,Rawson,Rawson
+26028,279,Chubut,Florentino Ameghino,Florentino Ameghino
+26021,280,Chubut,Escalante,Escalante
+26091,281,Chubut,Sarmiento,Sarmiento
+02007,324,Ciudad Autónoma de Buenos Aires,Comuna 1,Comuna 1
+02070,325,Ciudad Autónoma de Buenos Aires,Comuna 10,Comuna 10
+02077,326,Ciudad Autónoma de Buenos Aires,Comuna 11,Comuna 11
+02084,327,Ciudad Autónoma de Buenos Aires,Comuna 12,Comuna 12
+02091,328,Ciudad Autónoma de Buenos Aires,Comuna 13,Comuna 13
+02098,329,Ciudad Autónoma de Buenos Aires,Comuna 14,Comuna 14
+02105,330,Ciudad Autónoma de Buenos Aires,Comuna 15,Comuna 15
+02014,331,Ciudad Autónoma de Buenos Aires,Comuna 2,Comuna 2
+02021,332,Ciudad Autónoma de Buenos Aires,Comuna 3,Comuna 3
+02028,333,Ciudad Autónoma de Buenos Aires,Comuna 4,Comuna 4
+02035,334,Ciudad Autónoma de Buenos Aires,Comuna 5,Comuna 5
+02042,335,Ciudad Autónoma de Buenos Aires,Comuna 6,Comuna 6
+02049,336,Ciudad Autónoma de Buenos Aires,Comuna 7,Comuna 7
+02056,337,Ciudad Autónoma de Buenos Aires,Comuna 8,Comuna 8
+02063,338,Ciudad Autónoma de Buenos Aires,Comuna 9,Comuna 9
+18014,492,Corrientes,Beron de Astrada,Berón de Astrada
+18021,493,Corrientes,Capital,Capital
+18028,494,Corrientes,Concepcion,Concepción
+18035,495,Corrientes,Curuzu Cuatia,Curuzú Cuatiá
+18056,496,Corrientes,General Alvear,General Alvear
+18063,497,Corrientes,General Paz,General Paz
+18077,498,Corrientes,Itati,Itatí
+18098,499,Corrientes,Mburucuya,Mburucuyá
+18105,500,Corrientes,Mercedes,Mercedes
+18112,501,Corrientes,Monte Caseros,Monte Caseros
+18119,502,Corrientes,Paso de los Libres,Paso de los Libres
+18126,503,Corrientes,Saladas,Saladas
+18133,504,Corrientes,San Cosme,San Cosme
+18140,505,Corrientes,San Luis del Palmar,San Luis del Palmar
+18154,506,Corrientes,San Miguel,San Miguel
+18161,507,Corrientes,San Roque,San Roque
+18175,514,Corrientes,Sauce,Sauce
+18147,533,Corrientes,San Martin,San Martín
+18084,534,Corrientes,Ituzaingo,Ituzaingó
+18168,535,Corrientes,Santo Tome,Santo Tomé
+18042,655,Corrientes,Empedrado,Empedrado
+18007,656,Corrientes,Bella Vista,Bella Vista
+18091,657,Corrientes,Lavalle,Lavalle
+18070,658,Corrientes,Goya,Goya
+18049,659,Corrientes,Esquina,Esquina
+14049,474,Córdoba,Ischilin,Ischilín
+14056,475,Córdoba,Juarez Celman,Juárez Celman
+14112,476,Córdoba,Rio Seco,Río Seco
+14119,477,Córdoba,Rio Segundo,Río Segundo
+14161,478,Córdoba,Tercero Arriba,Tercero Arriba
+14168,479,Córdoba,Totoral,Totoral
+14182,480,Córdoba,Union,Unión
+14091,509,Córdoba,Punilla,Punilla
+14042,510,Córdoba,General San Martin,General San Martín
+14154,511,Córdoba,Sobremonte,Sobremonte
+14105,512,Córdoba,Rio Primero,Río Primero
+14133,561,Córdoba,San Javier,San Javier
+14007,562,Córdoba,Calamuchita,Calamuchita
+14098,563,Córdoba,Rio Cuarto,Río Cuarto
+14035,564,Córdoba,General Roca,General Roca
+14028,590,Córdoba,Cruz Del Eje,Cruz del Eje
+14070,592,Córdoba,Minas,Minas
+14077,594,Córdoba,Pocho,Pocho
+14126,595,Córdoba,San Alberto,San Alberto
+14021,606,Córdoba,Colon,Colón
+14147,607,Córdoba,Santa Maria,Santa María
+14014,608,Córdoba,Capital,Capital
+14175,609,Córdoba,Tulumba,Tulumba
+14084,668,Córdoba,Presidente Roque Saenz Peña,Presidente Roque Sáenz Peña
+14063,669,Córdoba,Marcos Juarez,Marcos Juárez
+14140,673,Córdoba,San Justo,San Justo
+30008,481,Entre Ríos,Colon,Colón
+30015,482,Entre Ríos,Concordia,Concordia
+30028,483,Entre Ríos,Federacion,Federación
+30035,484,Entre Ríos,Federal,Federal
+30049,485,Entre Ríos,Gualeguay,Gualeguay
+30063,486,Entre Ríos,Islas del Ibicuy,Islas del Ibicuy
+30077,487,Entre Ríos,Nogoya,Nogoyá
+30088,488,Entre Ríos,San Salvador,San Salvador
+30091,489,Entre Ríos,Tala,Tala
+30098,490,Entre Ríos,Uruguay,Uruguay
+30113,491,Entre Ríos,Villaguay,Villaguay
+30042,508,Entre Ríos,Feliciano,Feliciano
+30056,513,Entre Ríos,Gualeguaychu,Gualeguaychú
+30070,660,Entre Ríos,La Paz,La Paz
+30084,661,Entre Ríos,Parana,Paraná
+30021,662,Entre Ríos,Diamante,Diamante
+30105,675,Entre Ríos,Victoria,Victoria
+34014,448,Formosa,Formosa,Formosa
+34021,449,Formosa,Laishi,Laishi
+34049,450,Formosa,Pilcomayo,Pilcomayo
+34056,451,Formosa,Pirane,Pirané
+34042,452,Formosa,Pilagas,Pilagás
+34035,453,Formosa,Patiño,Patiño
+34007,454,Formosa,Bermejo,Bermejo
+34028,597,Formosa,Matacos,Matacos
+34063,598,Formosa,Ramon Lista,Ramón Lista
+38007,702,Jujuy,Cochinoca,Cochinoca
+38035,703,Jujuy,Ledesma,Ledesma
+38042,704,Jujuy,Palpala,Palpalá
+38049,705,Jujuy,Rinconada,Rinconada
+38063,706,Jujuy,San Pedro,San Pedro
+38070,707,Jujuy,Santa Barbara,Santa Bárbara
+38098,708,Jujuy,Tumbaya,Tumbaya
+38105,709,Jujuy,Valle Grande,Valle Grande
+38077,710,Jujuy,Santa Catalina,Santa Catalina
+38094,711,Jujuy,Tilcara,Tilcara
+38028,712,Jujuy,Humahuaca,Humahuaca
+38056,713,Jujuy,San Antonio,San Antonio
+38014,714,Jujuy,El Carmen,El Carmen
+38021,715,Jujuy,Dr Manuel Belgrano,Dr. Manuel Belgrano
+38112,716,Jujuy,Yavi,Yavi
+38084,722,Jujuy,Susques,Susques
+42021,282,La Pampa,Capital,Capital
+42091,283,La Pampa,Limay Mahuida,Limay Mahuida
+42140,284,La Pampa,Toay,Toay
+42147,285,La Pampa,Trenel,Trenel
+42154,286,La Pampa,Utracan,Utracán
+42077,287,La Pampa,Hucal,Hucal
+42070,288,La Pampa,Guatrache,Guatraché
+42028,289,La Pampa,Catrilo,Catriló
+42007,290,La Pampa,Atreuco,Atreucó
+42035,568,La Pampa,Conhelo,Conhelo
+42098,569,La Pampa,Loventue,Loventué
+42049,570,La Pampa,Chalileo,Chalileo
+42063,571,La Pampa,Chical Co,Chical Co
+42112,572,La Pampa,Puelen,Puelén
+42042,573,La Pampa,Curaco,Curacó
+42084,574,La Pampa,Lihuel Calel,Lihuel Calel
+42014,575,La Pampa,Caleu Caleu,Caleu Caleu
+42126,576,La Pampa,Rancul,Rancul
+42119,577,La Pampa,Quemu Quemu,Quemú Quemú
+42133,578,La Pampa,Realico,Realicó
+42105,579,La Pampa,Maraco,Maracó
+42056,580,La Pampa,Chapaleufu,Chapaleufú
+46126,455,La Rioja,Sanagasta,Sanagasta
+46021,456,La Rioja,Castro Barros,Castro Barros
+46042,457,La Rioja,Chilecito,Chilecito
+46056,458,La Rioja,General Angel Vicente Peñaloza,Ángel Vicente Peñaloza
+46028,552,La Rioja,Coronel Felipe Varela,General Felipe Varela
+46070,553,La Rioja,General Juan Facundo Quiroga,General Juan Facundo Quiroga
+46112,554,La Rioja,Rosario Vera Peñaloza,Rosario Vera Peñaloza
+46105,555,La Rioja,Independencia,Independencia
+46049,582,La Rioja,Famatina,Famatina
+46119,583,La Rioja,San Blas de los Sauces,San Blas de Los Sauces
+46007,584,La Rioja,Arauco,Arauco
+46014,585,La Rioja,Capital,Capital
+46098,586,La Rioja,Vinchina,Vinchina
+46077,588,La Rioja,General Lamadrid,General Lamadrid
+46035,589,La Rioja,Chamical,Chamical
+46084,591,La Rioja,General Ortiz de Ocampo,General Ortiz de Ocampo
+46091,593,La Rioja,General San Martin,General San Martín
+46063,596,La Rioja,General Belgrano,General Belgrano
+50021,610,Mendoza,Godoy Cruz,Godoy Cruz
+50028,611,Mendoza,Guaymallen,Guaymallén
+50035,612,Mendoza,Junin,Junín
+50056,613,Mendoza,Lavalle,Lavalle
+50063,614,Mendoza,Lujan de Cuyo,Luján de Cuyo
+50070,615,Mendoza,Maipu,Maipú
+50084,616,Mendoza,Rivadavia,Rivadavia
+50091,617,Mendoza,San Carlos,San Carlos
+50098,618,Mendoza,San Martin,San Martín
+50119,619,Mendoza,Tunuyan,Tunuyán
+50126,620,Mendoza,Tupungato,Tupungato
+50042,621,Mendoza,La Paz,La Paz
+50014,622,Mendoza,General Alvear,General Alvear
+50077,623,Mendoza,Malargüe,Malargüe
+50049,624,Mendoza,Las Heras,Las Heras
+50112,625,Mendoza,Santa Rosa,Santa Rosa
+50105,626,Mendoza,San Rafael,San Rafael
+50007,627,Mendoza,Capital,Capital
+54119,536,Misiones,25 de Mayo,25 de Mayo
+54007,537,Misiones,Apostoles,Apóstoles
+54014,538,Misiones,Cainguas,Cainguás
+54021,539,Misiones,Candelaria,Candelaria
+54028,540,Misiones,Capital,Capital
+54035,541,Misiones,Concepcion,Concepción
+54042,542,Misiones,El Dorado,Eldorado
+54056,543,Misiones,Guarani,Guaraní
+54063,544,Misiones,Iguazu,Iguazú
+54084,545,Misiones,Montecarlo,Montecarlo
+54091,546,Misiones,Obera,Oberá
+54098,547,Misiones,San Ignacio,San Ignacio
+54112,548,Misiones,San Pedro,San Pedro
+54070,549,Misiones,Leandro N. Alem,Leandro N. Alem
+54105,550,Misiones,San Javier,San Javier
+54077,551,Misiones,Libertador General San Martin,Libertador General San Martín
+54049,746,Misiones,General Manuel Belgrano,General Manuel Belgrano
+58014,460,Neuquén,Añelo,Añelo
+58021,461,Neuquén,Catan Lil,Catán Lil
+58042,462,Neuquén,Chos Malal,Chos Malal
+58035,463,Neuquén,Confluencia,Confluencia
+58049,464,Neuquén,Huiliches,Huiliches
+58063,465,Neuquén,Loncopue,Loncopué
+58077,466,Neuquén,Minas,Minas
+58084,467,Neuquén,Ñorquin,Ñorquín
+58098,468,Neuquén,Picun Leufu,Picún Leufú
+58105,469,Neuquén,Picunches,Picunches
+58112,470,Neuquén,Zapala,Zapala
+58007,471,Neuquén,Alumine,Aluminé
+58028,472,Neuquén,Collon Cura,Collón Curá
+58091,473,Neuquén,Pehuenches,Pehuenches
+58056,765,Neuquén,Lacar,Lácar
+58070,767,Neuquén,Los Lagos,Los Lagos
+62028,459,Río Negro,Conesa,Conesa
+62014,565,Río Negro,Avellaneda,Avellaneda
+62063,566,Río Negro,Pichi Mahuida,Pichi Mahuida
+62056,599,Río Negro,Ñorquinco,Ñorquinco
+62091,600,Río Negro,25 de Mayo,25 de Mayo
+62049,601,Río Negro,9 de Julio,9 de Julio
+62084,602,Río Negro,Valcheta,Valcheta
+62077,603,Río Negro,San Antonio,San Antonio
+62007,605,Río Negro,Adolfo Alsina,Adolfo Alsina
+62021,764,Río Negro,Bariloche,Bariloche
+62070,766,Río Negro,Pilcaniyeu,Pilcaniyeu
+62035,768,Río Negro,El Cuy,El Cuy
+62042,769,Río Negro,General Roca,General Roca
+66007,723,Salta,Anta,Anta
+66014,724,Salta,Cachi,Cachi
+66021,725,Salta,Cafayate,Cafayate
+66028,726,Salta,Capital,Capital
+66035,727,Salta,Cerrillos,Cerrillos
+66042,728,Salta,Chicoana,Chicoana
+66049,729,Salta,General Güemes,General Güemes
+66056,730,Salta,General Jose de San Martin,General José de San Martín
+66063,731,Salta,Guachipas,Guachipas
+66070,732,Salta,Iruya,Iruya
+66077,733,Salta,La Caldera,La Caldera
+66084,734,Salta,La Candelaria,La Candelaria
+66091,735,Salta,La Poma,La Poma
+66098,736,Salta,La Viña,La Viña
+66105,737,Salta,Los Andes,Los Andes
+66119,738,Salta,Molinos,Molinos
+66126,739,Salta,Oran,Orán
+66133,740,Salta,Rivadavia,Rivadavia
+66140,741,Salta,Rosario de la Frontera,Rosario de la Frontera
+66147,742,Salta,Rosario de Lerma,Rosario de Lerma
+66161,743,Salta,Santa Victoria,Santa Victoria
+66154,744,Salta,San Carlos,San Carlos
+66112,745,Salta,Metan,Metán
+70063,436,San Juan,9 de Julio,9 de Julio
+70007,437,San Juan,Albardon,Albardón
+70014,438,San Juan,Angaco,Angaco
+70028,439,San Juan,Capital,Capital
+70042,440,San Juan,Chimbas,Chimbas
+70070,441,San Juan,Pocito,Pocito
+70077,442,San Juan,Rawson,Rawson
+70084,443,San Juan,Rivadavia,Rivadavia
+70091,444,San Juan,San Martin,San Martín
+70098,445,San Juan,Santa Lucia,Santa Lucía
+70112,446,San Juan,Ullum,Ullum
+70133,447,San Juan,Zonda,Zonda
+70119,556,San Juan,Valle Fertil,Valle Fértil
+70056,557,San Juan,Jachal,Jáchal
+70105,558,San Juan,Sarmiento,Sarmiento
+70126,559,San Juan,25 de Mayo,25 de Mayo
+70035,560,San Juan,Caucete,Caucete
+70021,581,San Juan,Calingasta,Calingasta
+70049,587,San Juan,Iglesia,Iglesia
+74063,291,San Luis,San Martin,Libertador General San Martín
+74007,292,San Luis,Ayacucho,Ayacucho
+74049,293,San Luis,Junin,Junín
+74028,294,San Luis,Chacabuco,Chacabuco
+74042,567,San Luis,Dupuy,Gobernador Dupuy
+74056,628,San Luis,La Capital,Juan Martín de Pueyrredón
+74014,649,San Luis,Belgrano,Belgrano
+74021,650,San Luis,Pringles,Coronel Pringles
+74035,651,San Luis,Pedernera,General Pedernera
+78014,260,Santa Cruz,Deseado,Deseado
+78035,261,Santa Cruz,Lago Buenos Aires,Lago Buenos Aires
+78042,262,Santa Cruz,Magallanes,Magallanes
+78007,263,Santa Cruz,Corpen Aike,Corpen Aike
+78021,264,Santa Cruz,Güer Aike,Güer Aike
+78028,265,Santa Cruz,Lago Argentino,Lago Argentino
+78049,266,Santa Cruz,Rio Chico,Río Chico
+82084,676,Santa Fe,Rosario Barr - Rosario Secc,Rosario
+82077,677,Santa Fe,9 de Julio,9 de Julio
+82091,678,Santa Fe,San Cristobal,San Cristóbal
+82133,679,Santa Fe,Vera,Vera
+82070,680,Santa Fe,Las Colonias,Las Colonias
+82021,681,Santa Fe,Castellanos,Castellanos
+82126,682,Santa Fe,San Martin,San Martín
+82105,683,Santa Fe,San Jeronimo,San Jerónimo
+82035,684,Santa Fe,Garay,Garay
+82049,685,Santa Fe,Genaral Obligado,General Obligado
+82007,686,Santa Fe,Belgrano,Belgrano
+82056,687,Santa Fe,Iriondo,Iriondo
+82119,688,Santa Fe,San Lorenzo,San Lorenzo
+82028,689,Santa Fe,Constitucion,Constitución
+82042,690,Santa Fe,General Lopez,General López
+82098,691,Santa Fe,San Javier,San Javier
+82112,692,Santa Fe,San Justo,San Justo
+82014,693,Santa Fe,Caseros,Caseros
+82063,698,Santa Fe,La Capital SECC,La Capital
+82063,699,Santa Fe,La Capital CAMP,La Capital
+82063,700,Santa Fe,La Capital CAMP,La Capital
+82084,747,Santa Fe,Rosario,Rosario
+86014,238,Santiago del Estero,Alberdi,Alberdi
+86021,239,Santiago del Estero,Atamisqui,Atamisqui
+86028,240,Santiago del Estero,Avellaneda,Avellaneda
+86035,241,Santiago del Estero,Banda,Banda
+86049,242,Santiago del Estero,Capital,Capital
+86063,243,Santiago del Estero,Choya,Choya
+86056,244,Santiago del Estero,Copo,Copo
+86070,245,Santiago del Estero,Figueroa,Figueroa
+86084,246,Santiago del Estero,Guasayan,Guasayán
+86091,247,Santiago del Estero,Jimenez,Jiménez
+86105,248,Santiago del Estero,Loreto,Loreto
+86112,249,Santiago del Estero,Mitre,Mitre
+86119,250,Santiago del Estero,Moreno,Moreno
+86126,251,Santiago del Estero,Ojo de Agua,Ojo de Agua
+86133,252,Santiago del Estero,Pellegrini,Pellegrini
+86140,253,Santiago del Estero,Quebrachos,Quebrachos
+86147,254,Santiago del Estero,Rio Hondo,Río Hondo
+86161,255,Santiago del Estero,Robles,Robles
+86168,256,Santiago del Estero,Salavina,Salavina
+86175,257,Santiago del Estero,San Martin,San Martín
+86182,258,Santiago del Estero,Sarmiento,Sarmiento
+86189,259,Santiago del Estero,Silipica,Silípica
+86077,670,Santiago del Estero,General Taboada,General Taboada
+86042,671,Santiago del Estero,Belgrano,Belgrano
+86007,672,Santiago del Estero,Aguirre,Aguirre
+86154,674,Santiago del Estero,Rivadavia,Rivadavia
+86098,696,Santiago del Estero,Brigadier Gral. Juan Felipe Ibarra,Juan Felipe Ibarra
+94021,718,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Islas del Atlantico Sur,Islas del Atlántico Sur
+94008,719,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Rio Grande,Río Grande
+94011,720,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Tolhuin,Tolhuin
+94015,721,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Ushuaia,Ushuaia
+90077,629,Tucumán,Aguilares,Río Chico
+90056,630,Tucumán,Bella Vista,Leales
+90021,631,Tucumán,Concepción,Chicligasta
+90049,632,Tucumán,La Cocha,La Cocha
+90070,633,Tucumán,Monteros,Monteros
+90091,634,Tucumán,Simoca,Simoca
+90098,635,Tucumán,Tafí del Valle,Tafí del Valle
+90112,636,Tucumán,Villa de Trancas,Trancas
+90007,637,Tucumán,Villa Burruyaca,Burruyacú
+90035,638,Tucumán,Graneros,Graneros
+90042,639,Tucumán,Juan Baiutista Alberdi,Juan Bautista Alberdi
+90028,640,Tucumán,Famaillá,Famaillá
+90063,641,Tucumán,Lules,Lules
+90119,642,Tucumán,Yerba Buena - Marcos Paz,Yerba Buena
+90084,643,Tucumán,San Miguel de Tucumán,Capital
+90014,644,Tucumán,Cruz Alta,Cruz Alta
+90105,645,Tucumán,Tafí Viejo,Tafí Viejo
