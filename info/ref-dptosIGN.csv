@@ -1,0 +1,528 @@
+in1prov,namprov,in1,nam,IN1
+22,Chaco,22036,12 de Octubre,22036
+22,Chaco,22126,1° de Mayo,22126
+22,Chaco,22039,2 de Abril,22039
+22,Chaco,22168,25 de Mayo,22168
+22,Chaco,22105,9 de Julio,22105
+22,Chaco,22007,Almirante Brown,22007
+22,Chaco,22014,Bermejo,22014
+22,Chaco,22028,Chacabuco,22028
+22,Chaco,22021,Comandante Fernández,22021
+22,Chaco,22043,Fray Justo Santa María de Oro,22043
+22,Chaco,22049,General Belgrano,22049
+22,Chaco,22056,General Donovan,22056
+22,Chaco,22063,General Güemes,22063
+22,Chaco,22070,Independencia,22070
+22,Chaco,22077,Libertad,22077
+22,Chaco,22084,Libertador General San Martín,22084
+22,Chaco,22091,Maipú,22091
+22,Chaco,22098,Mayor Luis J. Fontana,22098
+22,Chaco,22112,O'Higgins,22112
+22,Chaco,22119,Presidencia de la Plaza,22119
+22,Chaco,22133,Quitilipi,22133
+22,Chaco,22140,San Fernando,22140
+22,Chaco,22147,San Lorenzo,22147
+22,Chaco,22154,Sargento Cabral,22154
+22,Chaco,22161,Tapenagá,22161
+06,Buenos Aires,06854,25 de Mayo,06854
+06,Buenos Aires,06588,9 de Julio,06588
+06,Buenos Aires,06007,Adolfo Alsina,06007
+06,Buenos Aires,06014,Adolfo Gonzales Chaves,06014
+06,Buenos Aires,06021,Alberti,06021
+06,Buenos Aires,06028,Almirante Brown,06028
+06,Buenos Aires,06077,Arrecifes,06077
+06,Buenos Aires,06035,Avellaneda,06035
+06,Buenos Aires,06042,Ayacucho,06042
+06,Buenos Aires,06049,Azul,06049
+06,Buenos Aires,06056,Bahía Blanca,06056
+06,Buenos Aires,06063,Balcarce,06063
+06,Buenos Aires,06070,Baradero,06070
+06,Buenos Aires,06084,Benito Juárez,06084
+06,Buenos Aires,06091,Berazategui,06091
+06,Buenos Aires,06098,Berisso,06098
+06,Buenos Aires,06105,Bolívar,06105
+06,Buenos Aires,06112,Bragado,06112
+06,Buenos Aires,06119,Brandsen,06119
+06,Buenos Aires,06126,Campana,06126
+06,Buenos Aires,06140,Capitán Sarmiento,06140
+06,Buenos Aires,06147,Carlos Casares,06147
+06,Buenos Aires,06154,Carlos Tejedor,06154
+06,Buenos Aires,06161,Carmen de Areco,06161
+06,Buenos Aires,06168,Castelli,06168
+06,Buenos Aires,06134,Cañuelas,06134
+06,Buenos Aires,06210,Chacabuco,06210
+06,Buenos Aires,06218,Chascomús,06217
+06,Buenos Aires,06224,Chivilcoy,06224
+06,Buenos Aires,06175,Colón,06175
+06,Buenos Aires,06189,Coronel Dorrego,06189
+06,Buenos Aires,06196,Coronel Pringles,06196
+06,Buenos Aires,06203,Coronel Suárez,06203
+06,Buenos Aires,06182,Coronel de Marina Leonardo Rosales,06182
+06,Buenos Aires,06231,Daireaux,06231
+06,Buenos Aires,06238,Dolores,06238
+06,Buenos Aires,06245,Ensenada,06245
+06,Buenos Aires,06252,Escobar,06252
+06,Buenos Aires,06260,Esteban Echeverría,06260
+06,Buenos Aires,06266,Exaltación de la Cruz,06266
+06,Buenos Aires,06270,Ezeiza,06270
+06,Buenos Aires,06274,Florencio Varela,06274
+06,Buenos Aires,06277,Florentino Ameghino,06277
+06,Buenos Aires,06280,General Alvarado,06280
+06,Buenos Aires,06287,General Alvear,06287
+06,Buenos Aires,06294,General Arenales,06294
+06,Buenos Aires,06301,General Belgrano,06301
+06,Buenos Aires,06308,General Guido,06308
+06,Buenos Aires,06315,General Juan Madariaga,06315
+06,Buenos Aires,06322,General La Madrid,06322
+06,Buenos Aires,06329,General Las Heras,06329
+06,Buenos Aires,06336,General Lavalle,06336
+06,Buenos Aires,06343,General Paz,06343
+06,Buenos Aires,06351,General Pinto,06351
+06,Buenos Aires,06357,General Pueyrredón,06357
+06,Buenos Aires,06364,General Rodríguez,06364
+06,Buenos Aires,06371,General San Martín,06371
+06,Buenos Aires,06385,General Viamonte,06385
+06,Buenos Aires,06392,General Villegas,06392
+06,Buenos Aires,06399,Guaminí,06399
+06,Buenos Aires,06406,Hipólito Yrigoyen,06406
+06,Buenos Aires,06408,Hurlingham,06408
+06,Buenos Aires,06410,Ituzaingó,06410
+06,Buenos Aires,06412,José C. Paz,06412
+06,Buenos Aires,06413,Junín,06413
+06,Buenos Aires,06420,La Costa,06420
+06,Buenos Aires,06427,La Matanza,06427
+06,Buenos Aires,06441,La Plata,06441
+06,Buenos Aires,06434,Lanús,06434
+06,Buenos Aires,06448,Laprida,06448
+06,Buenos Aires,06455,Las Flores,06455
+06,Buenos Aires,06462,Leandro N. Alem,06462
+06,Buenos Aires,06466,Lezama,06217
+06,Buenos Aires,06469,Lincoln,06469
+06,Buenos Aires,06476,Lobería,06476
+06,Buenos Aires,06483,Lobos,06483
+06,Buenos Aires,06490,Lomas de Zamora,06490
+06,Buenos Aires,06497,Luján,06497
+06,Buenos Aires,06505,Magdalena,06505
+06,Buenos Aires,06511,Maipú,06511
+06,Buenos Aires,06515,Malvinas Argentinas,06515
+06,Buenos Aires,06518,Mar Chiquita,06518
+06,Buenos Aires,06525,Marcos Paz,06525
+06,Buenos Aires,06532,Mercedes,06532
+06,Buenos Aires,06539,Merlo,06539
+06,Buenos Aires,06547,Monte,06547
+06,Buenos Aires,06553,Monte Hermoso,06553
+06,Buenos Aires,06560,Moreno,06560
+06,Buenos Aires,06568,Morón,06568
+06,Buenos Aires,06574,Navarro,06574
+06,Buenos Aires,06581,Necochea,06581
+06,Buenos Aires,06595,Olavarría,06595
+06,Buenos Aires,06602,Patagones,06602
+06,Buenos Aires,06609,Pehuajó,06609
+06,Buenos Aires,06616,Pellegrini,06616
+06,Buenos Aires,06623,Pergamino,06623
+06,Buenos Aires,06630,Pila,06630
+06,Buenos Aires,06638,Pilar,06638
+06,Buenos Aires,06644,Pinamar,06644
+06,Buenos Aires,06648,Presidente Perón,06648
+06,Buenos Aires,06655,Punta Indio,06655
+06,Buenos Aires,06651,Puán,06651
+06,Buenos Aires,06658,Quilmes,06658
+06,Buenos Aires,06665,Ramallo,06665
+06,Buenos Aires,06672,Rauch,06672
+06,Buenos Aires,06679,Rivadavia,06679
+06,Buenos Aires,06686,Rojas,06686
+06,Buenos Aires,06693,Roque Pérez,06693
+06,Buenos Aires,06700,Saavedra,06700
+06,Buenos Aires,06707,Saladillo,06707
+06,Buenos Aires,06721,Salliqueló,06721
+06,Buenos Aires,06714,Salto,06714
+06,Buenos Aires,06728,San Andrés de Giles,06728
+06,Buenos Aires,06735,San Antonio de Areco,06735
+06,Buenos Aires,06742,San Cayetano,06742
+06,Buenos Aires,06749,San Fernando,06749
+06,Buenos Aires,06756,San Isidro,06756
+06,Buenos Aires,06760,San Miguel,06760
+06,Buenos Aires,06763,San Nicolás,06763
+06,Buenos Aires,06770,San Pedro,06770
+06,Buenos Aires,06778,San Vicente,06778
+06,Buenos Aires,06784,Suipacha,06784
+06,Buenos Aires,06791,Tandil,06791
+06,Buenos Aires,06798,Tapalqué,06798
+06,Buenos Aires,06805,Tigre,06805
+06,Buenos Aires,06812,Tordillo,06812
+06,Buenos Aires,06819,Tornquist,06819
+06,Buenos Aires,06826,Trenque Lauquen,06826
+06,Buenos Aires,06833,Tres Arroyos,06833
+06,Buenos Aires,06847,Tres Lomas,06847
+06,Buenos Aires,06840,Tres de Febrero,06840
+06,Buenos Aires,06861,Vicente López,06861
+06,Buenos Aires,06868,Villa Gesell,06868
+06,Buenos Aires,06875,Villarino,06875
+06,Buenos Aires,06882,Zárate,06882
+54,Misiones,54119,25 de Mayo,54119
+54,Misiones,54007,Apóstoles,54007
+54,Misiones,54014,Cainguás,54014
+54,Misiones,54021,Candelaria,54021
+54,Misiones,54028,Capital,54028
+54,Misiones,54035,Concepción,54035
+54,Misiones,54042,Eldorado,54042
+54,Misiones,54049,General Manuel Belgrano,54049
+54,Misiones,54056,Guaraní,54056
+54,Misiones,54063,Iguazú,54063
+54,Misiones,54070,Leandro N. Alem,54070
+54,Misiones,54077,Libertador General San Martín,54077
+54,Misiones,54084,Montecarlo,54084
+54,Misiones,54091,Oberá,54091
+54,Misiones,54098,San Ignacio,54098
+54,Misiones,54105,San Javier,54105
+54,Misiones,54112,San Pedro,54112
+62,Río Negro,62091,25 de Mayo,62091
+62,Río Negro,62049,9 de Julio,62049
+62,Río Negro,62007,Adolfo Alsina,62007
+62,Río Negro,62014,Avellaneda,62014
+62,Río Negro,62021,Bariloche,62021
+62,Río Negro,62028,Conesa,62028
+62,Río Negro,62035,El Cuy,62035
+62,Río Negro,62042,General Roca,62042
+62,Río Negro,62063,Pichi Mahuida,62063
+62,Río Negro,62070,Pilcaniyeu,62070
+62,Río Negro,62077,San Antonio,62077
+62,Río Negro,62084,Valcheta,62084
+62,Río Negro,62056,Ñorquinco,62056
+70,San Juan,70126,25 de Mayo,70126
+70,San Juan,70063,9 de Julio,70063
+70,San Juan,70007,Albardón,70007
+70,San Juan,70014,Angaco,70014
+70,San Juan,70021,Calingasta,70021
+70,San Juan,70028,Capital,70028
+70,San Juan,70035,Caucete,70035
+70,San Juan,70042,Chimbas,70042
+70,San Juan,70049,Iglesia,70049
+70,San Juan,70056,Jáchal,70056
+70,San Juan,70070,Pocito,70070
+70,San Juan,70077,Rawson,70077
+70,San Juan,70084,Rivadavia,70084
+70,San Juan,70091,San Martín,70091
+70,San Juan,70098,Santa Lucía,70098
+70,San Juan,70105,Sarmiento,70105
+70,San Juan,70112,Ullum,70112
+70,San Juan,70119,Valle Fértil,70119
+70,San Juan,70133,Zonda,70133
+82,Santa Fe,82077,9 de Julio,82077
+82,Santa Fe,82007,Belgrano,82007
+82,Santa Fe,82014,Caseros,82014
+82,Santa Fe,82021,Castellanos,82021
+82,Santa Fe,82028,Constitución,82028
+82,Santa Fe,82035,Garay,82035
+82,Santa Fe,82042,General López,82042
+82,Santa Fe,82049,General Obligado,82049
+82,Santa Fe,82056,Iriondo,82056
+82,Santa Fe,82063,La Capital,82063
+82,Santa Fe,82070,Las Colonias,82070
+82,Santa Fe,82084,Rosario,82084
+82,Santa Fe,82091,San Cristóbal,82091
+82,Santa Fe,82098,San Javier,82098
+82,Santa Fe,82105,San Jerónimo,82105
+82,Santa Fe,82112,San Justo,82112
+82,Santa Fe,82119,San Lorenzo,82119
+82,Santa Fe,82126,San Martín,82126
+82,Santa Fe,82133,Vera,82133
+86,Santiago del Estero,86007,Aguirre,86007
+86,Santiago del Estero,86014,Alberdi,86014
+86,Santiago del Estero,86021,Atamisqui,86021
+86,Santiago del Estero,86028,Avellaneda,86028
+86,Santiago del Estero,86035,Banda,86035
+86,Santiago del Estero,86042,Belgrano,86042
+86,Santiago del Estero,86049,Capital,86049
+86,Santiago del Estero,86063,Choya,86063
+86,Santiago del Estero,86056,Copo,86056
+86,Santiago del Estero,86070,Figueroa,86070
+86,Santiago del Estero,86077,General Taboada,86077
+86,Santiago del Estero,86084,Guasayán,86084
+86,Santiago del Estero,86091,Jiménez,86091
+86,Santiago del Estero,86098,Juan Felipe Ibarra,86098
+86,Santiago del Estero,86105,Loreto,86105
+86,Santiago del Estero,86112,Mitre,86112
+86,Santiago del Estero,86119,Moreno,86119
+86,Santiago del Estero,86126,Ojo de Agua,86126
+86,Santiago del Estero,86133,Pellegrini,86133
+86,Santiago del Estero,86140,Quebrachos,86140
+86,Santiago del Estero,86154,Rivadavia,86154
+86,Santiago del Estero,86161,Robles,86161
+86,Santiago del Estero,86147,Río Hondo,86147
+86,Santiago del Estero,86168,Salavina,86168
+86,Santiago del Estero,86175,San Martín,86175
+86,Santiago del Estero,86182,Sarmiento,86182
+86,Santiago del Estero,86189,Silípica,86189
+58,Neuquén,58007,Aluminé,58007
+58,Neuquén,58014,Añelo,58014
+58,Neuquén,58021,Catán Lil,58021
+58,Neuquén,58042,Chos Malal,58042
+58,Neuquén,58028,Collón Curá,58028
+58,Neuquén,58035,Confluencia,58035
+58,Neuquén,58049,Huiliches,58049
+58,Neuquén,58063,Loncopué,58063
+58,Neuquén,58070,Los Lagos,58070
+58,Neuquén,58056,Lácar,58056
+58,Neuquén,58077,Minas,58077
+58,Neuquén,58091,Pehuenches,58091
+58,Neuquén,58105,Picunches,58105
+58,Neuquén,58098,Picún Leufú,58098
+58,Neuquén,58112,Zapala,58112
+58,Neuquén,58084,Ñorquín,58084
+10,Catamarca,10007,Ambato,10007
+10,Catamarca,10014,Ancasti,10014
+10,Catamarca,10021,Andalgalá,10021
+10,Catamarca,10028,Antofagasta de la Sierra,10028
+10,Catamarca,10035,Belén,10035
+10,Catamarca,10042,Capayán,10042
+10,Catamarca,10049,Capital,10049
+10,Catamarca,10056,El Alto,10056
+10,Catamarca,10063,Fray Mamerto Esquiú,10063
+10,Catamarca,10070,La Paz,10070
+10,Catamarca,10077,Paclín,10077
+10,Catamarca,10084,Pomán,10084
+10,Catamarca,10091,Santa María,10091
+10,Catamarca,10098,Santa Rosa,10098
+10,Catamarca,10105,Tinogasta,10105
+10,Catamarca,10112,Valle Viejo,10112
+66,Salta,66007,Anta,66007
+66,Salta,66014,Cachi,66014
+66,Salta,66021,Cafayate,66021
+66,Salta,66028,Capital,66028
+66,Salta,66035,Cerrillos,66035
+66,Salta,66042,Chicoana,66042
+66,Salta,66049,General Güemes,66049
+66,Salta,66056,General José de San Martín,66056
+66,Salta,66063,Guachipas,66063
+66,Salta,66070,Iruya,66070
+66,Salta,66077,La Caldera,66077
+66,Salta,66084,La Candelaria,66084
+66,Salta,66091,La Poma,66091
+66,Salta,66098,La Viña,66098
+66,Salta,66105,Los Andes,66105
+66,Salta,66112,Metán,66112
+66,Salta,66119,Molinos,66119
+66,Salta,66126,Orán,66126
+66,Salta,66133,Rivadavia,66133
+66,Salta,66147,Rosario de Lerma,66147
+66,Salta,66140,Rosario de la Frontera,66140
+66,Salta,66154,San Carlos,66154
+66,Salta,66161,Santa Victoria,66161
+46,La Rioja,46007,Arauco,46007
+46,La Rioja,46014,Capital,46014
+46,La Rioja,46021,Castro Barros,46021
+46,La Rioja,46035,Chamical,46035
+46,La Rioja,46042,Chilecito,46042
+46,La Rioja,46049,Famatina,46049
+46,La Rioja,46063,General Belgrano,46063
+46,La Rioja,46028,General Felipe Varela,46028
+46,La Rioja,46070,General Juan Facundo Quiroga,46070
+46,La Rioja,46077,General Lamadrid,46077
+46,La Rioja,46084,General Ortiz de Ocampo,46084
+46,La Rioja,46091,General San Martín,46091
+46,La Rioja,46105,Independencia,46105
+46,La Rioja,46112,Rosario Vera Peñaloza,46112
+46,La Rioja,46119,San Blas de Los Sauces,46119
+46,La Rioja,46126,Sanagasta,46126
+46,La Rioja,46098,Vinchina,46098
+46,La Rioja,46056,Ángel Vicente Peñaloza,46056
+42,La Pampa,42007,Atreucó,42007
+42,La Pampa,42014,Caleu Caleu,42014
+42,La Pampa,42021,Capital,42021
+42,La Pampa,42028,Catriló,42028
+42,La Pampa,42049,Chalileo,42049
+42,La Pampa,42056,Chapaleufú,42056
+42,La Pampa,42063,Chical Co,42063
+42,La Pampa,42035,Conhelo,42035
+42,La Pampa,42042,Curacó,42042
+42,La Pampa,42070,Guatraché,42070
+42,La Pampa,42077,Hucal,42077
+42,La Pampa,42084,Lihuel Calel,42084
+42,La Pampa,42091,Limay Mahuida,42091
+42,La Pampa,42098,Loventué,42098
+42,La Pampa,42105,Maracó,42105
+42,La Pampa,42112,Puelén,42112
+42,La Pampa,42119,Quemú Quemú,42119
+42,La Pampa,42126,Rancul,42126
+42,La Pampa,42133,Realicó,42133
+42,La Pampa,42140,Toay,42140
+42,La Pampa,42147,Trenel,42147
+42,La Pampa,42154,Utracán,42154
+74,San Luis,74007,Ayacucho,74007
+74,San Luis,74014,Belgrano,74014
+74,San Luis,74028,Chacabuco,74028
+74,San Luis,74021,Coronel Pringles,74021
+74,San Luis,74035,General Pedernera,74035
+74,San Luis,74042,Gobernador Dupuy,74042
+74,San Luis,74056,Juan Martín de Pueyrredón,74056
+74,San Luis,74049,Junín,74049
+74,San Luis,74063,Libertador General San Martín,74063
+18,Corrientes,18007,Bella Vista,18007
+18,Corrientes,18014,Berón de Astrada,18014
+18,Corrientes,18021,Capital,18021
+18,Corrientes,18028,Concepción,18028
+18,Corrientes,18035,Curuzú Cuatiá,18035
+18,Corrientes,18042,Empedrado,18042
+18,Corrientes,18049,Esquina,18049
+18,Corrientes,18056,General Alvear,18056
+18,Corrientes,18063,General Paz,18063
+18,Corrientes,18070,Goya,18070
+18,Corrientes,18077,Itatí,18077
+18,Corrientes,18084,Ituzaingó,18084
+18,Corrientes,18091,Lavalle,18091
+18,Corrientes,18098,Mburucuyá,18098
+18,Corrientes,18105,Mercedes,18105
+18,Corrientes,18112,Monte Caseros,18112
+18,Corrientes,18119,Paso de los Libres,18119
+18,Corrientes,18126,Saladas,18126
+18,Corrientes,18133,San Cosme,18133
+18,Corrientes,18140,San Luis del Palmar,18140
+18,Corrientes,18147,San Martín,18147
+18,Corrientes,18154,San Miguel,18154
+18,Corrientes,18161,San Roque,18161
+18,Corrientes,18168,Santo Tomé,18168
+18,Corrientes,18175,Sauce,18175
+34,Formosa,34007,Bermejo,34007
+34,Formosa,34014,Formosa,34014
+34,Formosa,34021,Laishi,34021
+34,Formosa,34028,Matacos,34028
+34,Formosa,34035,Patiño,34035
+34,Formosa,34042,Pilagás,34042
+34,Formosa,34049,Pilcomayo,34049
+34,Formosa,34056,Pirané,34056
+34,Formosa,34063,Ramón Lista,34063
+26,Chubut,26007,Biedma,26007
+26,Chubut,26014,Cushamen,26014
+26,Chubut,26021,Escalante,26021
+26,Chubut,26028,Florentino Ameghino,26028
+26,Chubut,26035,Futaleufú,26035
+26,Chubut,26042,Gaiman,26042
+26,Chubut,26049,Gastre,26049
+26,Chubut,26056,Languiñeo,26056
+26,Chubut,26063,Mártires,26063
+26,Chubut,26070,Paso de Indios,26070
+26,Chubut,26077,Rawson,26077
+26,Chubut,26084,Río Senguer,26084
+26,Chubut,26091,Sarmiento,26091
+26,Chubut,26098,Tehuelches,26098
+26,Chubut,26105,Telsen,26105
+90,Tucumán,90007,Burruyacú,90007
+90,Tucumán,90084,Capital,90084
+90,Tucumán,90021,Chicligasta,90021
+90,Tucumán,90014,Cruz Alta,90014
+90,Tucumán,90028,Famaillá,90028
+90,Tucumán,90035,Graneros,90035
+90,Tucumán,90042,Juan Bautista Alberdi,90042
+90,Tucumán,90049,La Cocha,90049
+90,Tucumán,90056,Leales,90056
+90,Tucumán,90063,Lules,90063
+90,Tucumán,90070,Monteros,90070
+90,Tucumán,90077,Río Chico,90077
+90,Tucumán,90091,Simoca,90091
+90,Tucumán,90105,Tafí Viejo,90105
+90,Tucumán,90098,Tafí del Valle,90098
+90,Tucumán,90112,Trancas,90112
+90,Tucumán,90119,Yerba Buena,90119
+14,Córdoba,14007,Calamuchita,14007
+14,Córdoba,14014,Capital,14014
+14,Córdoba,14021,Colón,14021
+14,Córdoba,14028,Cruz del Eje,14028
+14,Córdoba,14035,General Roca,14035
+14,Córdoba,14042,General San Martín,14042
+14,Córdoba,14049,Ischilín,14049
+14,Córdoba,14056,Juárez Celman,14056
+14,Córdoba,14063,Marcos Juárez,14063
+14,Córdoba,14070,Minas,14070
+14,Córdoba,14077,Pocho,14077
+14,Córdoba,14084,Presidente Roque Sáenz Peña,14084
+14,Córdoba,14091,Punilla,14091
+14,Córdoba,14098,Río Cuarto,14098
+14,Córdoba,14105,Río Primero,14105
+14,Córdoba,14112,Río Seco,14112
+14,Córdoba,14119,Río Segundo,14119
+14,Córdoba,14126,San Alberto,14126
+14,Córdoba,14133,San Javier,14133
+14,Córdoba,14140,San Justo,14140
+14,Córdoba,14147,Santa María,14147
+14,Córdoba,14154,Sobremonte,14154
+14,Córdoba,14161,Tercero Arriba,14161
+14,Córdoba,14168,Totoral,14168
+14,Córdoba,14175,Tulumba,14175
+14,Córdoba,14182,Unión,14182
+50,Mendoza,50007,Capital,50007
+50,Mendoza,50014,General Alvear,50014
+50,Mendoza,50021,Godoy Cruz,50021
+50,Mendoza,50028,Guaymallén,50028
+50,Mendoza,50035,Junín,50035
+50,Mendoza,50042,La Paz,50042
+50,Mendoza,50049,Las Heras,50049
+50,Mendoza,50056,Lavalle,50056
+50,Mendoza,50063,Luján de Cuyo,50063
+50,Mendoza,50070,Maipú,50070
+50,Mendoza,50077,Malargüe,50077
+50,Mendoza,50084,Rivadavia,50084
+50,Mendoza,50091,San Carlos,50091
+50,Mendoza,50098,San Martín,50098
+50,Mendoza,50105,San Rafael,50105
+50,Mendoza,50112,Santa Rosa,50112
+50,Mendoza,50119,Tunuyán,50119
+50,Mendoza,50126,Tupungato,50126
+38,Jujuy,38007,Cochinoca,38007
+38,Jujuy,38021,Dr. Manuel Belgrano,38021
+38,Jujuy,38014,El Carmen,38014
+38,Jujuy,38028,Humahuaca,38028
+38,Jujuy,38035,Ledesma,38035
+38,Jujuy,38042,Palpalá,38042
+38,Jujuy,38049,Rinconada,38049
+38,Jujuy,38056,San Antonio,38056
+38,Jujuy,38063,San Pedro,38063
+38,Jujuy,38070,Santa Bárbara,38070
+38,Jujuy,38077,Santa Catalina,38077
+38,Jujuy,38084,Susques,38084
+38,Jujuy,38094,Tilcara,38094
+38,Jujuy,38098,Tumbaya,38098
+38,Jujuy,38105,Valle Grande,38105
+38,Jujuy,38112,Yavi,38112
+30,Entre Ríos,30008,Colón,30008
+30,Entre Ríos,30015,Concordia,30015
+30,Entre Ríos,30021,Diamante,30021
+30,Entre Ríos,30028,Federación,30028
+30,Entre Ríos,30035,Federal,30035
+30,Entre Ríos,30042,Feliciano,30042
+30,Entre Ríos,30049,Gualeguay,30049
+30,Entre Ríos,30056,Gualeguaychú,30056
+30,Entre Ríos,30063,Islas del Ibicuy,30063
+30,Entre Ríos,30070,La Paz,30070
+30,Entre Ríos,30077,Nogoyá,30077
+30,Entre Ríos,30084,Paraná,30084
+30,Entre Ríos,30088,San Salvador,30088
+30,Entre Ríos,30091,Tala,30091
+30,Entre Ríos,30098,Uruguay,30098
+30,Entre Ríos,30105,Victoria,30105
+30,Entre Ríos,30113,Villaguay,30113
+02,Ciudad Autónoma de Buenos Aires,02007,Comuna 1,0214007
+02,Ciudad Autónoma de Buenos Aires,02070,Comuna 10,0214070
+02,Ciudad Autónoma de Buenos Aires,02077,Comuna 11,0214077
+02,Ciudad Autónoma de Buenos Aires,02084,Comuna 12,0214084
+02,Ciudad Autónoma de Buenos Aires,02091,Comuna 13,0214091
+02,Ciudad Autónoma de Buenos Aires,02098,Comuna 14,0214098
+02,Ciudad Autónoma de Buenos Aires,02105,Comuna 15,0214105
+02,Ciudad Autónoma de Buenos Aires,02014,Comuna 2,0214014
+02,Ciudad Autónoma de Buenos Aires,02021,Comuna 3,0214021
+02,Ciudad Autónoma de Buenos Aires,02028,Comuna 4,0214028
+02,Ciudad Autónoma de Buenos Aires,02035,Comuna 5,0214035
+02,Ciudad Autónoma de Buenos Aires,02042,Comuna 6,0214042
+02,Ciudad Autónoma de Buenos Aires,02049,Comuna 7,0214049
+02,Ciudad Autónoma de Buenos Aires,02056,Comuna 8,0214056
+02,Ciudad Autónoma de Buenos Aires,02063,Comuna 9,0214063
+78,Santa Cruz,78007,Corpen Aike,78007
+78,Santa Cruz,78014,Deseado,78014
+78,Santa Cruz,78021,Güer Aike,78021
+78,Santa Cruz,78028,Lago Argentino,78028
+78,Santa Cruz,78035,Lago Buenos Aires,78035
+78,Santa Cruz,78042,Magallanes,78042
+78,Santa Cruz,78049,Río Chico,78049
+94,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",94008,Río Grande,94007
+94,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",94011,Tolhuin,94007
+94,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",94015,Ushuaia,94014
