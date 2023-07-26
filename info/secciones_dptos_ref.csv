@@ -1,0 +1,533 @@
+distrito_id,seccion_id,seccionprovincial_id,seccion_nombre,PROV_REF_ID,IDPROV,NOMPROV,DPTO_REF_ID,IDDPTO,NOMDPTO,DPTO
+1,1,0,Comuna 01,1.0,2.0,Ciudad Autónoma de Buenos Aires,1.0,1.0,Comuna 01,2001.0
+1,2,0,Comuna 02,1.0,2.0,Ciudad Autónoma de Buenos Aires,2.0,2.0,Comuna 02,2002.0
+1,3,0,Comuna 03,1.0,2.0,Ciudad Autónoma de Buenos Aires,3.0,3.0,Comuna 03,2003.0
+1,4,0,Comuna 04,1.0,2.0,Ciudad Autónoma de Buenos Aires,4.0,4.0,Comuna 04,2004.0
+1,5,0,Comuna 05,1.0,2.0,Ciudad Autónoma de Buenos Aires,5.0,5.0,Comuna 05,2005.0
+1,6,0,Comuna 06,1.0,2.0,Ciudad Autónoma de Buenos Aires,6.0,6.0,Comuna 06,2006.0
+1,7,0,Comuna 07,1.0,2.0,Ciudad Autónoma de Buenos Aires,7.0,7.0,Comuna 07,2007.0
+1,8,0,Comuna 08,1.0,2.0,Ciudad Autónoma de Buenos Aires,8.0,8.0,Comuna 08,2008.0
+1,9,0,Comuna 09,1.0,2.0,Ciudad Autónoma de Buenos Aires,9.0,9.0,Comuna 09,2009.0
+1,10,0,Comuna 10,1.0,2.0,Ciudad Autónoma de Buenos Aires,10.0,10.0,Comuna 10,2010.0
+1,11,0,Comuna 11,1.0,2.0,Ciudad Autónoma de Buenos Aires,11.0,11.0,Comuna 11,2011.0
+1,12,0,Comuna 12,1.0,2.0,Ciudad Autónoma de Buenos Aires,12.0,12.0,Comuna 12,2012.0
+1,13,0,Comuna 13,1.0,2.0,Ciudad Autónoma de Buenos Aires,13.0,13.0,Comuna 13,2013.0
+1,14,0,Comuna 14,1.0,2.0,Ciudad Autónoma de Buenos Aires,14.0,14.0,Comuna 14,2014.0
+1,15,0,Comuna 15,1.0,2.0,Ciudad Autónoma de Buenos Aires,15.0,15.0,Comuna 15,2015.0
+2,1,6,Adolfo Alsina,2.0,6.0,Buenos Aires,40.0,7.0,Adolfo Alsina,6007.0
+2,56,6,Adolfo Gonzales Chaves,2.0,6.0,Buenos Aires,41.0,14.0,Adolfo Gonzáles Chaves,6014.0
+2,2,4,Alberti,2.0,6.0,Buenos Aires,42.0,21.0,Alberti,6021.0
+2,3,3,Almirante Brown,2.0,6.0,Buenos Aires,16.0,28.0,Almirante Brown,6028.0
+2,4,3,Avellaneda,2.0,6.0,Buenos Aires,17.0,35.0,Avellaneda,6035.0
+2,5,5,Ayacucho,2.0,6.0,Buenos Aires,43.0,42.0,Ayacucho,6042.0
+2,6,7,Azul,2.0,6.0,Buenos Aires,44.0,49.0,Azul,6049.0
+2,7,6,Bahía Blanca,2.0,6.0,Buenos Aires,45.0,56.0,Bahía Blanca,6056.0
+2,8,5,Balcarce,2.0,6.0,Buenos Aires,46.0,63.0,Balcarce,6063.0
+2,9,2,Baradero,2.0,6.0,Buenos Aires,47.0,70.0,Baradero,6070.0
+2,10,2,Arrecifes,2.0,6.0,Buenos Aires,48.0,77.0,Bartolomé Mitre,6077.0
+2,59,6,Benito Juárez,2.0,6.0,Buenos Aires,49.0,84.0,Benito Juárez,6084.0
+2,11,3,Berazategui,2.0,6.0,Buenos Aires,18.0,91.0,Berazategui,6091.0
+2,12,3,Berisso,2.0,6.0,Buenos Aires,50.0,98.0,Berisso,6098.0
+2,13,7,Bolívar,2.0,6.0,Buenos Aires,51.0,105.0,Bolívar,6105.0
+2,14,4,Bragado,2.0,6.0,Buenos Aires,52.0,112.0,Bragado,6112.0
+2,15,3,Brandsen,2.0,6.0,Buenos Aires,53.0,119.0,Brandsen,6119.0
+2,16,1,Campana,2.0,6.0,Buenos Aires,54.0,126.0,Campana,6126.0
+2,17,3,Cañuelas,2.0,6.0,Buenos Aires,55.0,134.0,Cañuelas,6134.0
+2,18,2,Capitán Sarmiento,2.0,6.0,Buenos Aires,56.0,140.0,Capitán Sarmiento,6140.0
+2,19,4,Carlos Casares,2.0,6.0,Buenos Aires,57.0,147.0,Carlos Casares,6147.0
+2,20,4,Carlos Tejedor,2.0,6.0,Buenos Aires,58.0,154.0,Carlos Tejedor,6154.0
+2,21,2,Carmen De Areco,2.0,6.0,Buenos Aires,59.0,161.0,Carmen de Areco,6161.0
+2,23,5,Castelli,2.0,6.0,Buenos Aires,60.0,168.0,Castelli,6168.0
+2,24,2,Colón,2.0,6.0,Buenos Aires,61.0,175.0,Colón,6175.0
+2,27,6,Coronel Rosales,2.0,6.0,Buenos Aires,62.0,182.0,Coronel de Marina L. Rosales,6182.0
+2,25,6,Coronel Dorrego,2.0,6.0,Buenos Aires,63.0,189.0,Coronel Dorrego,6189.0
+2,26,6,Coronel Pringles,2.0,6.0,Buenos Aires,64.0,196.0,Coronel Pringles,6196.0
+2,28,6,Coronel Suárez,2.0,6.0,Buenos Aires,65.0,203.0,Coronel Suárez,6203.0
+2,29,4,Chacabuco,2.0,6.0,Buenos Aires,66.0,210.0,Chacabuco,6210.0
+2,30,5,Chascomús,2.0,6.0,Buenos Aires,67.0,217.0,Chascomús,6217.0
+2,31,4,Chivilcoy,2.0,6.0,Buenos Aires,68.0,224.0,Chivilcoy,6224.0
+2,32,6,Daireaux,2.0,6.0,Buenos Aires,69.0,231.0,Daireaux,6231.0
+2,33,5,Dolores,2.0,6.0,Buenos Aires,70.0,238.0,Dolores,6238.0
+2,34,3,Ensenada,2.0,6.0,Buenos Aires,71.0,245.0,Ensenada,6245.0
+2,35,1,Escobar,2.0,6.0,Buenos Aires,72.0,252.0,Escobar,6252.0
+2,36,3,Esteban Echeverría,2.0,6.0,Buenos Aires,19.0,260.0,Esteban Echeverría,6260.0
+2,37,2,Exaltación De La Cruz,2.0,6.0,Buenos Aires,73.0,266.0,Exaltación de la Cruz,6266.0
+2,132,3,Ezeiza,2.0,6.0,Buenos Aires,20.0,270.0,Ezeiza,6270.0
+2,38,3,Florencio Varela,2.0,6.0,Buenos Aires,21.0,274.0,Florencio Varela,6274.0
+2,127,4,F. Ameghino,2.0,6.0,Buenos Aires,74.0,277.0,Florentino Ameghino,6277.0
+2,39,5,General Alvarado,2.0,6.0,Buenos Aires,75.0,280.0,General Alvarado,6280.0
+2,40,7,General Alvear,2.0,6.0,Buenos Aires,76.0,287.0,General Alvear,6287.0
+2,41,4,General Arenales,2.0,6.0,Buenos Aires,77.0,294.0,General Arenales,6294.0
+2,42,5,General Belgrano,2.0,6.0,Buenos Aires,78.0,301.0,General Belgrano,6301.0
+2,43,5,General Guido,2.0,6.0,Buenos Aires,79.0,308.0,General Guido,6308.0
+2,47,5,General Madariaga,2.0,6.0,Buenos Aires,80.0,315.0,General Juan Madariaga,6315.0
+2,44,6,General La Madrid,2.0,6.0,Buenos Aires,81.0,322.0,General La Madrid,6322.0
+2,45,1,General Las Heras,2.0,6.0,Buenos Aires,82.0,329.0,General Las Heras,6329.0
+2,46,5,General Lavalle,2.0,6.0,Buenos Aires,83.0,336.0,General Lavalle,6336.0
+2,48,5,General Paz,2.0,6.0,Buenos Aires,84.0,343.0,General Paz,6343.0
+2,49,4,General Pinto,2.0,6.0,Buenos Aires,85.0,351.0,General Pinto,6351.0
+2,50,5,General Pueyrredón,2.0,6.0,Buenos Aires,86.0,357.0,General Pueyrredón,6357.0
+2,51,1,General Rodríguez,2.0,6.0,Buenos Aires,87.0,364.0,General Rodríguez,6364.0
+2,52,1,General San Martín,2.0,6.0,Buenos Aires,22.0,371.0,General San Martín,6371.0
+2,54,4,General Viamonte,2.0,6.0,Buenos Aires,88.0,385.0,General Viamonte,6385.0
+2,55,4,General Villegas,2.0,6.0,Buenos Aires,89.0,392.0,General Villegas,6392.0
+2,57,6,Guamini,2.0,6.0,Buenos Aires,90.0,399.0,Guaminí,6399.0
+2,58,4,Hipólito Yrigoyen,2.0,6.0,Buenos Aires,91.0,406.0,Hipólito Yrigoyen,6406.0
+2,134,1,Hurlingham,2.0,6.0,Buenos Aires,23.0,408.0,Hurlingham,6408.0
+2,133,1,Ituzaingo,2.0,6.0,Buenos Aires,24.0,410.0,Ituzaingó,6410.0
+2,129,1,J. C. Paz,2.0,6.0,Buenos Aires,25.0,412.0,José C. Paz,6412.0
+2,60,4,Junín,2.0,6.0,Buenos Aires,92.0,413.0,Junín,6413.0
+2,119,5,La Costa,2.0,6.0,Buenos Aires,93.0,420.0,La Costa,6420.0
+2,61,3,La Matanza,2.0,6.0,Buenos Aires,26.0,427.0,La Matanza,6427.0
+2,62,3,Lanús,2.0,6.0,Buenos Aires,27.0,434.0,Lanús,6434.0
+2,63,8,La Plata,2.0,6.0,Buenos Aires,94.0,441.0,La Plata,6441.0
+2,64,6,Laprida,2.0,6.0,Buenos Aires,95.0,448.0,Laprida,6448.0
+2,65,5,Las Flores,2.0,6.0,Buenos Aires,96.0,455.0,Las Flores,6455.0
+2,66,4,Leandro N. Alem,2.0,6.0,Buenos Aires,97.0,462.0,Leandro N. Alem,6462.0
+2,67,4,Lincoln,2.0,6.0,Buenos Aires,98.0,469.0,Lincoln,6469.0
+2,68,5,Loberia,2.0,6.0,Buenos Aires,99.0,476.0,Lobería,6476.0
+2,69,3,Lobos,2.0,6.0,Buenos Aires,100.0,483.0,Lobos,6483.0
+2,70,3,Lomas De Zamora,2.0,6.0,Buenos Aires,28.0,490.0,Lomas de Zamora,6490.0
+2,71,1,Luján,2.0,6.0,Buenos Aires,101.0,497.0,Luján,6497.0
+2,72,3,Magdalena,2.0,6.0,Buenos Aires,102.0,505.0,Magdalena,6505.0
+2,73,5,Maipú,2.0,6.0,Buenos Aires,103.0,511.0,Maipú,6511.0
+2,130,1,Malvinas Argentinas,2.0,6.0,Buenos Aires,29.0,515.0,Malvinas Argentinas,6515.0
+2,74,5,Mar Chiquita,2.0,6.0,Buenos Aires,104.0,518.0,Mar Chiquita,6518.0
+2,75,1,Marcos Paz,2.0,6.0,Buenos Aires,105.0,525.0,Marcos Paz,6525.0
+2,76,1,Mercedes,2.0,6.0,Buenos Aires,106.0,532.0,Mercedes,6532.0
+2,77,1,Merlo,2.0,6.0,Buenos Aires,30.0,539.0,Merlo,6539.0
+2,78,5,Monte,2.0,6.0,Buenos Aires,107.0,547.0,Monte,6547.0
+2,120,6,Monte Hermoso,2.0,6.0,Buenos Aires,108.0,553.0,Monte Hermoso,6553.0
+2,79,1,Moreno,2.0,6.0,Buenos Aires,31.0,560.0,Moreno,6560.0
+2,80,1,Morón,2.0,6.0,Buenos Aires,32.0,568.0,Morón,6568.0
+2,81,1,Navarro,2.0,6.0,Buenos Aires,109.0,574.0,Navarro,6574.0
+2,82,5,Necochea,2.0,6.0,Buenos Aires,110.0,581.0,Necochea,6581.0
+2,83,4,Nueve De Julio,2.0,6.0,Buenos Aires,111.0,588.0,9 de Julio,6588.0
+2,84,7,Olavarría,2.0,6.0,Buenos Aires,112.0,595.0,Olavarría,6595.0
+2,22,6,Patagones,2.0,6.0,Buenos Aires,113.0,602.0,Patagones,6602.0
+2,85,4,Pehuajó,2.0,6.0,Buenos Aires,114.0,609.0,Pehuajó,6609.0
+2,86,6,Pellegrini,2.0,6.0,Buenos Aires,115.0,616.0,Pellegrini,6616.0
+2,87,2,Pergamino,2.0,6.0,Buenos Aires,116.0,623.0,Pergamino,6623.0
+2,88,5,Pila,2.0,6.0,Buenos Aires,117.0,630.0,Pila,6630.0
+2,89,1,Pilar,2.0,6.0,Buenos Aires,118.0,638.0,Pilar,6638.0
+2,90,5,Pinamar,2.0,6.0,Buenos Aires,119.0,644.0,Pinamar,6644.0
+2,128,3,Presidente Perón,2.0,6.0,Buenos Aires,120.0,648.0,Presidente Perón,6648.0
+2,91,6,Puan,2.0,6.0,Buenos Aires,121.0,651.0,Puán,6651.0
+2,131,3,Punta Indio,2.0,6.0,Buenos Aires,122.0,655.0,Punta Indio,6655.0
+2,92,3,Quilmes,2.0,6.0,Buenos Aires,33.0,658.0,Quilmes,6658.0
+2,93,2,Ramallo,2.0,6.0,Buenos Aires,123.0,665.0,Ramallo,6665.0
+2,94,5,Rauch,2.0,6.0,Buenos Aires,124.0,672.0,Rauch,6672.0
+2,95,4,Rivadavia,2.0,6.0,Buenos Aires,125.0,679.0,Rivadavia,6679.0
+2,96,2,Rojas,2.0,6.0,Buenos Aires,126.0,686.0,Rojas,6686.0
+2,97,7,Roque Pérez,2.0,6.0,Buenos Aires,127.0,693.0,Roque Pérez,6693.0
+2,98,6,Saavedra,2.0,6.0,Buenos Aires,128.0,700.0,Saavedra,6700.0
+2,99,7,Saladillo,2.0,6.0,Buenos Aires,129.0,707.0,Saladillo,6707.0
+2,101,2,Salto,2.0,6.0,Buenos Aires,130.0,714.0,Salto,6714.0
+2,100,6,Salliqueló,2.0,6.0,Buenos Aires,131.0,721.0,Salliqueló,6721.0
+2,102,2,San Andrés De Giles,2.0,6.0,Buenos Aires,132.0,728.0,San Andrés de Giles,6728.0
+2,103,2,San Antonio De Areco,2.0,6.0,Buenos Aires,133.0,735.0,San Antonio de Areco,6735.0
+2,104,5,San Cayetano,2.0,6.0,Buenos Aires,134.0,742.0,San Cayetano,6742.0
+2,105,1,San Fernando,2.0,6.0,Buenos Aires,34.0,749.0,San Fernando,6749.0
+2,106,1,San Isidro,2.0,6.0,Buenos Aires,35.0,756.0,San Isidro,6756.0
+2,53,1,San Miguel,2.0,6.0,Buenos Aires,36.0,760.0,San Miguel,6760.0
+2,107,2,San Nicolás,2.0,6.0,Buenos Aires,135.0,763.0,San Nicolás,6763.0
+2,108,2,San Pedro,2.0,6.0,Buenos Aires,136.0,770.0,San Pedro,6770.0
+2,109,3,San Vicente,2.0,6.0,Buenos Aires,137.0,778.0,San Vicente,6778.0
+2,110,1,Suipacha,2.0,6.0,Buenos Aires,138.0,784.0,Suipacha,6784.0
+2,111,5,Tandil,2.0,6.0,Buenos Aires,139.0,791.0,Tandil,6791.0
+2,112,7,Tapalqué,2.0,6.0,Buenos Aires,140.0,798.0,Tapalqué,6798.0
+2,113,1,Tigre,2.0,6.0,Buenos Aires,37.0,805.0,Tigre,6805.0
+2,116,5,Tordillo,2.0,6.0,Buenos Aires,141.0,812.0,Tordillo,6812.0
+2,114,6,Tornquist,2.0,6.0,Buenos Aires,142.0,819.0,Tornquist,6819.0
+2,115,4,Trenque Lauquen,2.0,6.0,Buenos Aires,143.0,826.0,Trenque Lauquen,6826.0
+2,117,6,Tres Arroyos,2.0,6.0,Buenos Aires,144.0,833.0,Tres Arroyos,6833.0
+2,118,1,Tres De Febrero,2.0,6.0,Buenos Aires,38.0,840.0,Tres de Febrero,6840.0
+2,126,6,Tres Lomas,2.0,6.0,Buenos Aires,145.0,847.0,Tres Lomas,6847.0
+2,121,7,25 De Mayo,2.0,6.0,Buenos Aires,146.0,854.0,25 de Mayo,6854.0
+2,122,1,Vicente López,2.0,6.0,Buenos Aires,39.0,861.0,Vicente López,6861.0
+2,123,5,Villa Gesell,2.0,6.0,Buenos Aires,147.0,868.0,Villa Gesell,6868.0
+2,124,6,Villarino,2.0,6.0,Buenos Aires,148.0,875.0,Villarino,6875.0
+2,125,2,Zárate,2.0,6.0,Buenos Aires,149.0,882.0,Zárate,6882.0
+2,135,5,Lezama,,,,,,,
+3,10,0,Ambato,3.0,10.0,Catamarca,150.0,7.0,Ambato,10007.0
+3,4,0,Ancasti,3.0,10.0,Catamarca,151.0,14.0,Ancasti,10014.0
+3,12,0,Andalgalá,3.0,10.0,Catamarca,152.0,21.0,Andalgalá,10021.0
+3,14,0,Antofagasta De La Sierra,3.0,10.0,Catamarca,153.0,28.0,Antofagasta de la Sierra,10028.0
+3,13,0,Belén,3.0,10.0,Catamarca,154.0,35.0,Belén,10035.0
+3,2,0,Capayan,3.0,10.0,Catamarca,155.0,42.0,Capayán,10042.0
+3,1,0,Capital,3.0,10.0,Catamarca,156.0,49.0,Capital,10049.0
+3,5,0,El Alto,3.0,10.0,Catamarca,157.0,56.0,El Alto,10056.0
+3,9,0,Fray Mamerto Esquiú,3.0,10.0,Catamarca,158.0,63.0,Fray Mamerto Esquiú,10063.0
+3,3,0,La Paz,3.0,10.0,Catamarca,159.0,70.0,La Paz,10070.0
+3,7,0,Paclin,3.0,10.0,Catamarca,160.0,77.0,Paclin,10077.0
+3,11,0,Pomán,3.0,10.0,Catamarca,161.0,84.0,Poman,10084.0
+3,16,0,Santa María,3.0,10.0,Catamarca,162.0,91.0,Santa María,10091.0
+3,6,0,Santa Rosa,3.0,10.0,Catamarca,163.0,98.0,Santa Rosa,10098.0
+3,15,0,Tinogasta,3.0,10.0,Catamarca,164.0,105.0,Tinogasta,10105.0
+3,8,0,Valle Viejo,3.0,10.0,Catamarca,165.0,112.0,Valle Viejo,10112.0
+4,2,0,Calamuchita,4.0,14.0,Córdoba,166.0,7.0,Calamuchita,14007.0
+4,1,0,Capital,4.0,14.0,Córdoba,167.0,14.0,Capital,14014.0
+4,3,0,Colón,4.0,14.0,Córdoba,168.0,21.0,Colón,14021.0
+4,4,0,Cruz Del Eje,4.0,14.0,Córdoba,169.0,28.0,Cruz del Eje,14028.0
+4,5,0,General Roca,4.0,14.0,Córdoba,170.0,35.0,General Roca,14035.0
+4,6,0,General San Martín,4.0,14.0,Córdoba,171.0,42.0,General San Martín,14042.0
+4,7,0,Ischilin,4.0,14.0,Córdoba,172.0,49.0,Ischilín,14049.0
+4,8,0,Juárez Celman,4.0,14.0,Córdoba,173.0,56.0,Juárez Celman,14056.0
+4,9,0,Marcos Juárez,4.0,14.0,Córdoba,174.0,63.0,Marcos Juárez,14063.0
+4,10,0,Minas,4.0,14.0,Córdoba,175.0,70.0,Minas,14070.0
+4,11,0,Pocho,4.0,14.0,Córdoba,176.0,77.0,Pocho,14077.0
+4,17,0,Roque Sáenz Peña,4.0,14.0,Córdoba,177.0,84.0,Presidente Roque Sáenz Peña,14084.0
+4,12,0,Punilla,4.0,14.0,Córdoba,178.0,91.0,Punilla,14091.0
+4,13,0,Río Cuarto,4.0,14.0,Córdoba,179.0,98.0,Río Cuarto,14098.0
+4,14,0,Río Primero,4.0,14.0,Córdoba,180.0,105.0,Río Primero,14105.0
+4,15,0,Río Seco,4.0,14.0,Córdoba,181.0,112.0,Río Seco,14112.0
+4,16,0,Río Segundo,4.0,14.0,Córdoba,182.0,119.0,Río Segundo,14119.0
+4,18,0,San Alberto,4.0,14.0,Córdoba,183.0,126.0,San Alberto,14126.0
+4,19,0,San Javier,4.0,14.0,Córdoba,184.0,133.0,San Javier,14133.0
+4,20,0,San Justo,4.0,14.0,Córdoba,185.0,140.0,San Justo,14140.0
+4,21,0,Santa María,4.0,14.0,Córdoba,186.0,147.0,Santa María,14147.0
+4,22,0,Sobremonte,4.0,14.0,Córdoba,187.0,154.0,Sobremonte,14154.0
+4,23,0,Tercero Arriba,4.0,14.0,Córdoba,188.0,161.0,Tercero Arriba,14161.0
+4,24,0,Totoral,4.0,14.0,Córdoba,189.0,168.0,Totoral,14168.0
+4,25,0,Tulumba,4.0,14.0,Córdoba,190.0,175.0,Tulumba,14175.0
+4,26,0,Unión,4.0,14.0,Córdoba,191.0,182.0,Unión,14182.0
+5,1,0,Capital,5.0,18.0,Corrientes,194.0,21.0,Capital,18021.0
+5,2,0,Goya,5.0,18.0,Corrientes,201.0,70.0,Goya,18070.0
+5,3,0,Curuzú Cuatiá,5.0,18.0,Corrientes,196.0,35.0,Curuzú Cuatiá,18035.0
+5,4,0,Mercedes,5.0,18.0,Corrientes,206.0,105.0,Mercedes,18105.0
+5,5,0,Esquina,5.0,18.0,Corrientes,198.0,49.0,Esquina,18049.0
+5,6,0,Lavalle,5.0,18.0,Corrientes,204.0,91.0,Lavalle,18091.0
+5,7,0,Santo Tomé,5.0,18.0,Corrientes,215.0,168.0,Santo Tomé,18168.0
+5,8,0,Paso De Los Libres,5.0,18.0,Corrientes,208.0,119.0,Paso de los Libres,18119.0
+5,9,0,Monte Caseros,5.0,18.0,Corrientes,207.0,112.0,Monte Caseros,18112.0
+5,10,0,San Luis Del Palmar,5.0,18.0,Corrientes,211.0,140.0,San Luis del Palmar,18140.0
+5,11,0,Bella Vista,5.0,18.0,Corrientes,192.0,7.0,Bella Vista,18007.0
+5,12,0,Empedrado,5.0,18.0,Corrientes,197.0,42.0,Empedrado,18042.0
+5,13,0,San Roque,5.0,18.0,Corrientes,214.0,161.0,San Roque,18161.0
+5,14,0,General Paz,5.0,18.0,Corrientes,200.0,63.0,General Paz,18063.0
+5,15,0,Saladas,5.0,18.0,Corrientes,209.0,126.0,Saladas,18126.0
+5,16,0,San Martín,5.0,18.0,Corrientes,212.0,147.0,San Martín,18147.0
+5,17,0,Concepción,5.0,18.0,Corrientes,195.0,28.0,Concepción,18028.0
+5,18,0,Mburucuya,5.0,18.0,Corrientes,205.0,98.0,Mburucuyá,18098.0
+5,19,0,Ituzaingo,5.0,18.0,Corrientes,203.0,84.0,Ituzaingó,18084.0
+5,20,0,Sauce,5.0,18.0,Corrientes,216.0,175.0,Sauce,18175.0
+5,21,0,San Cosme,5.0,18.0,Corrientes,210.0,133.0,San Cosme,18133.0
+5,22,0,General Alvear,5.0,18.0,Corrientes,199.0,56.0,General Alvear,18056.0
+5,23,0,San Miguel,5.0,18.0,Corrientes,213.0,154.0,San Miguel,18154.0
+5,24,0,Itati,5.0,18.0,Corrientes,202.0,77.0,Itatí,18077.0
+5,25,0,Berón De Astrada,5.0,18.0,Corrientes,193.0,14.0,Berón de Astrada,18014.0
+6,2,0,Primero De Mayo,6.0,22.0,Chaco,235.0,126.0,1°  de Mayo,22126.0
+6,21,0,12 De Octubre,6.0,22.0,Chaco,221.0,36.0,12 de Octubre,22036.0
+6,22,0,2 De Abril,6.0,22.0,Chaco,222.0,39.0,2 de Abril,22039.0
+6,15,0,25 De Mayo,6.0,22.0,Chaco,241.0,168.0,25 de Mayo,22168.0
+6,19,0,9 De Julio,6.0,22.0,Chaco,232.0,105.0,9 de Julio,22105.0
+6,24,0,Almirante Brown,6.0,22.0,Chaco,217.0,7.0,Almirante Brown,22007.0
+6,7,0,Bermejo,6.0,22.0,Chaco,218.0,14.0,Bermejo,22014.0
+6,20,0,Chacabuco,6.0,22.0,Chaco,220.0,28.0,Chacabuco,22028.0
+6,13,0,Comandante Fernández,6.0,22.0,Chaco,219.0,21.0,Comandante Fernández,22021.0
+6,23,0,Fray J. Sta. María De Oro,6.0,22.0,Chaco,223.0,43.0,Fray Justo Santa María de Oro,22043.0
+6,18,0,General Belgrano,6.0,22.0,Chaco,224.0,49.0,General Belgrano,22049.0
+6,4,0,General Donovan,6.0,22.0,Chaco,225.0,56.0,General Donovan,22056.0
+6,25,0,General Güemes,6.0,22.0,Chaco,226.0,63.0,General Güemes,22063.0
+6,17,0,Independencia,6.0,22.0,Chaco,227.0,70.0,Independencia,22070.0
+6,8,0,Lib. Gral. San Martín,6.0,22.0,Chaco,229.0,84.0,Libertador General San Martín,22084.0
+6,3,0,Libertad,6.0,22.0,Chaco,228.0,77.0,Libertad,22077.0
+6,16,0,Maipú,6.0,22.0,Chaco,230.0,91.0,Maipú,22091.0
+6,11,0,Mayor L. J. Fontana,6.0,22.0,Chaco,231.0,98.0,Mayor Luis J. Fontana,22098.0
+6,12,0,O'Higgins,6.0,22.0,Chaco,233.0,112.0,O'Higgins,22112.0
+6,6,0,Pcia. De La Plaza,6.0,22.0,Chaco,234.0,119.0,Presidencia de la Plaza,22119.0
+6,14,0,Quitilipi,6.0,22.0,Chaco,236.0,133.0,Quitilipi,22133.0
+6,1,0,San Fernando,6.0,22.0,Chaco,237.0,140.0,San Fernando,22140.0
+6,10,0,San Lorenzo,6.0,22.0,Chaco,238.0,147.0,San Lorenzo,22147.0
+6,5,0,Sargento Cabral,6.0,22.0,Chaco,239.0,154.0,Sargento Cabral,22154.0
+6,9,0,Tapenaga,6.0,22.0,Chaco,240.0,161.0,Tapenagá,22161.0
+7,2,0,Biedma,7.0,26.0,Chubut,242.0,7.0,Biedma,26007.0
+7,5,0,Cushamen,7.0,26.0,Chubut,243.0,14.0,Cushamen,26014.0
+7,15,0,Escalante,7.0,26.0,Chubut,244.0,21.0,Escalante,26021.0
+7,11,0,F. Ameghino,7.0,26.0,Chubut,245.0,28.0,Florentino Ameghino,26028.0
+7,6,0,Futaleufú,7.0,26.0,Chubut,246.0,35.0,Futaleufú,26035.0
+7,12,0,Gaiman,7.0,26.0,Chubut,247.0,42.0,Gaiman,26042.0
+7,4,0,Gastre,7.0,26.0,Chubut,248.0,49.0,Gastre,26049.0
+7,7,0,Languiñeo,7.0,26.0,Chubut,249.0,56.0,Languiñeo,26056.0
+7,10,0,Mártires,7.0,26.0,Chubut,250.0,63.0,Martires,26063.0
+7,9,0,Paso De Indios,7.0,26.0,Chubut,251.0,70.0,Paso de los Indios,26070.0
+7,1,0,Rawson,7.0,26.0,Chubut,252.0,77.0,Rawson,26077.0
+7,13,0,Río Senguer,7.0,26.0,Chubut,253.0,84.0,Río Senguer,26084.0
+7,14,0,Sarmiento,7.0,26.0,Chubut,254.0,91.0,Sarmiento,26091.0
+7,8,0,Tehuelches,7.0,26.0,Chubut,255.0,98.0,Tehuelches,26098.0
+7,3,0,Telsen,7.0,26.0,Chubut,256.0,105.0,Telsen,26105.0
+8,15,0,Colón,8.0,30.0,Entre Ríos,257.0,8.0,Colón,30008.0
+8,13,0,Concordia,8.0,30.0,Entre Ríos,258.0,15.0,Concordia,30015.0
+8,4,0,Diamante,8.0,30.0,Entre Ríos,259.0,21.0,Diamante,30021.0
+8,17,0,Federación,8.0,30.0,Entre Ríos,260.0,28.0,Federación,30028.0
+8,14,0,Federal,8.0,30.0,Entre Ríos,261.0,35.0,Federal,30035.0
+8,16,0,Feliciano,8.0,30.0,Entre Ríos,262.0,42.0,Feliciano,30042.0
+8,7,0,Gualeguay,8.0,30.0,Entre Ríos,263.0,49.0,Gualeguay,30049.0
+8,10,0,Gualeguaychú,8.0,30.0,Entre Ríos,264.0,56.0,Gualeguaychú,30056.0
+8,11,0,Islas Del Ibicuy,8.0,30.0,Entre Ríos,265.0,63.0,Islas del Ibicuy,30063.0
+8,3,0,La Paz,8.0,30.0,Entre Ríos,266.0,70.0,La Paz,30070.0
+8,6,0,Nogoyá,8.0,30.0,Entre Ríos,267.0,77.0,Nogoya,30077.0
+8,1,0,Paraná,8.0,30.0,Entre Ríos,268.0,84.0,Paraná,30084.0
+8,18,0,San Salvador,8.0,30.0,Entre Ríos,269.0,88.0,San Salvador,30088.0
+8,8,0,Tala,8.0,30.0,Entre Ríos,270.0,91.0,Tala,30091.0
+8,9,0,Uruguay,8.0,30.0,Entre Ríos,271.0,98.0,Uruguay,30098.0
+8,5,0,Victoria,8.0,30.0,Entre Ríos,272.0,105.0,Victoria,30105.0
+8,12,0,Villaguay,8.0,30.0,Entre Ríos,273.0,113.0,Villaguay,30113.0
+8,2,0,,,,,,,,
+9,1,0,Formosa,9.0,34.0,Formosa,275.0,14.0,Formosa,34014.0
+9,2,0,Laishi,9.0,34.0,Formosa,276.0,21.0,Laishi,34021.0
+9,3,0,Pilcomayo,9.0,34.0,Formosa,280.0,49.0,Pilcomayo,34049.0
+9,4,0,Pirané,9.0,34.0,Formosa,281.0,56.0,Pirane,34056.0
+9,5,0,Pilagas,9.0,34.0,Formosa,279.0,42.0,Pilagás,34042.0
+9,6,0,Patiño,9.0,34.0,Formosa,278.0,35.0,Patiño,34035.0
+9,7,0,Bermejo,9.0,34.0,Formosa,274.0,7.0,Bermejo,34007.0
+9,8,0,Matacos,9.0,34.0,Formosa,277.0,28.0,Matacos,34028.0
+9,9,0,Ramón Lista,9.0,34.0,Formosa,282.0,63.0,Ramón Lista,34063.0
+10,12,0,Cochinoca,10.0,38.0,Jujuy,283.0,7.0,Cochinoca,38007.0
+10,4,0,El Carmen,10.0,38.0,Jujuy,284.0,14.0,El Carmen,38014.0
+10,1,0,General Belgrano,10.0,38.0,Jujuy,285.0,21.0,Dr. Manuel Belgrano,38021.0
+10,11,0,Humahuaca,10.0,38.0,Jujuy,286.0,28.0,Humahuaca,38028.0
+10,7,0,Ledesma,10.0,38.0,Jujuy,287.0,35.0,Ledesma,38035.0
+10,2,0,Palpalá,10.0,38.0,Jujuy,288.0,42.0,Palpalá,38042.0
+10,13,0,Rinconada,10.0,38.0,Jujuy,289.0,49.0,Rinconada,38049.0
+10,3,0,San Antonio,10.0,38.0,Jujuy,290.0,56.0,San Antonio,38056.0
+10,5,0,San Pedro,10.0,38.0,Jujuy,291.0,63.0,San Pedro,38063.0
+10,6,0,Santa Bárbara,10.0,38.0,Jujuy,292.0,70.0,Santa Bárbara,38070.0
+10,14,0,Santa Catalina,10.0,38.0,Jujuy,293.0,77.0,Santa Catalina,38077.0
+10,16,0,Susques,10.0,38.0,Jujuy,294.0,84.0,Susques,38084.0
+10,10,0,Tilcara,10.0,38.0,Jujuy,295.0,94.0,Tilcara,38094.0
+10,9,0,Tumbaya,10.0,38.0,Jujuy,296.0,98.0,Tumbaya,38098.0
+10,8,0,Valle Grande,10.0,38.0,Jujuy,297.0,105.0,Valle Grande,38105.0
+10,15,0,Yavi,10.0,38.0,Jujuy,298.0,112.0,Yaví,38112.0
+11,1,0,Atreuco,11.0,42.0,La Pampa,299.0,7.0,Atreuco,42007.0
+11,2,0,Capital,11.0,42.0,La Pampa,301.0,21.0,Capital,42021.0
+11,3,0,Caleu Caleu,11.0,42.0,La Pampa,300.0,14.0,Caleu Caleu,42014.0
+11,4,0,Catriló,11.0,42.0,La Pampa,302.0,28.0,Catriló,42028.0
+11,5,0,Chalileo,11.0,42.0,La Pampa,305.0,49.0,Chalileo,42049.0
+11,6,0,Chapaleufu,11.0,42.0,La Pampa,306.0,56.0,Chapaleufú,42056.0
+11,7,0,Chical-Co,11.0,42.0,La Pampa,307.0,63.0,Chical Có,42063.0
+11,8,0,Conhelo,11.0,42.0,La Pampa,303.0,35.0,Conhelo,42035.0
+11,9,0,Curaco,11.0,42.0,La Pampa,304.0,42.0,Curacó,42042.0
+11,10,0,Guatrache,11.0,42.0,La Pampa,308.0,70.0,Guatraché,42070.0
+11,11,0,Hucal,11.0,42.0,La Pampa,309.0,77.0,Hucal,42077.0
+11,12,0,Loventue,11.0,42.0,La Pampa,312.0,98.0,Loventué,42098.0
+11,13,0,Lihuel Calel,11.0,42.0,La Pampa,310.0,84.0,Lihuel Calel,42084.0
+11,14,0,Limay Mahuida,11.0,42.0,La Pampa,311.0,91.0,Limay Mahuida,42091.0
+11,15,0,Maraco,11.0,42.0,La Pampa,313.0,105.0,Maracó,42105.0
+11,16,0,Puelen,11.0,42.0,La Pampa,314.0,112.0,Puelén,42112.0
+11,17,0,Quemu Quemu,11.0,42.0,La Pampa,315.0,119.0,Quemú Quemú,42119.0
+11,18,0,Rancul,11.0,42.0,La Pampa,316.0,126.0,Rancul,42126.0
+11,19,0,Realicó,11.0,42.0,La Pampa,317.0,133.0,Realicó,42133.0
+11,20,0,Toay,11.0,42.0,La Pampa,318.0,140.0,Toay,42140.0
+11,21,0,Trenel,11.0,42.0,La Pampa,319.0,147.0,Trenel,42147.0
+11,22,0,Utracán,11.0,42.0,La Pampa,320.0,154.0,Utracán,42154.0
+12,4,0,Arauco,12.0,46.0,La Rioja,321.0,7.0,Arauco,46007.0
+12,1,0,Capital,12.0,46.0,La Rioja,322.0,14.0,Capital,46014.0
+12,3,0,Castro Barros,12.0,46.0,La Rioja,323.0,21.0,Castro Barros,46021.0
+12,12,0,Chamical,12.0,46.0,La Rioja,325.0,35.0,Chamical,46035.0
+12,6,0,Chilecito,12.0,46.0,La Rioja,326.0,42.0,Chilecito,46042.0
+12,8,0,Felipe Varela,12.0,46.0,La Rioja,324.0,28.0,Coronel Felipe Varela,46028.0
+12,7,0,Famatina,12.0,46.0,La Rioja,327.0,49.0,Famatina,46049.0
+12,13,0,Angel Vicente Peñaloza,12.0,46.0,La Rioja,328.0,56.0,General Angel V. Peñaloza,46056.0
+12,14,0,General Belgrano,12.0,46.0,La Rioja,329.0,63.0,General Belgrano,46063.0
+12,15,0,Juan Facundo Quiroga,12.0,46.0,La Rioja,330.0,70.0,General Juan F.Quiroga,46070.0
+12,9,0,General Lamadrid,12.0,46.0,La Rioja,331.0,77.0,General Lamadrid,46077.0
+12,16,0,General Ortiz De Ocampo,12.0,46.0,La Rioja,332.0,84.0,General Ocampo,46084.0
+12,18,0,General San Martín,12.0,46.0,La Rioja,333.0,91.0,General San Martín,46091.0
+12,11,0,Independencia,12.0,46.0,La Rioja,335.0,105.0,Independencia,46105.0
+12,17,0,Rosario Vera Peñaloza,12.0,46.0,La Rioja,336.0,112.0,Rosario Vera Peñaloza,46112.0
+12,5,0,San Blas De Los Sauces,12.0,46.0,La Rioja,337.0,119.0,San Blas de los Sauces,46119.0
+12,2,0,Sanagasta,12.0,46.0,La Rioja,338.0,126.0,Sanagasta,46126.0
+12,10,0,Vinchina,12.0,46.0,La Rioja,334.0,98.0,Vinchina,46098.0
+13,1,9,Capital,13.0,50.0,Mendoza,339.0,7.0,Capital,50007.0
+13,18,12,General Alvear,13.0,50.0,Mendoza,340.0,14.0,General Alvear,50014.0
+13,2,11,Godoy Cruz,13.0,50.0,Mendoza,341.0,21.0,Godoy Cruz,50021.0
+13,3,9,Guaymallén,13.0,50.0,Mendoza,342.0,28.0,Guaymallén,50028.0
+13,10,10,Junín,13.0,50.0,Mendoza,343.0,35.0,Junín,50035.0
+13,15,10,La Paz,13.0,50.0,Mendoza,344.0,42.0,La Paz,50042.0
+13,4,9,Las Heras,13.0,50.0,Mendoza,345.0,49.0,Las Heras,50049.0
+13,5,9,Lavalle,13.0,50.0,Mendoza,346.0,56.0,Lavalle,50056.0
+13,7,11,Luján,13.0,50.0,Mendoza,347.0,63.0,Luján de Cuyo,50063.0
+13,6,10,Maipú,13.0,50.0,Mendoza,348.0,70.0,Maipú,50070.0
+13,17,12,Malargüe,13.0,50.0,Mendoza,349.0,77.0,Malargüe,50077.0
+13,11,10,Rivadavia,13.0,50.0,Mendoza,350.0,84.0,Rivadavia,50084.0
+13,13,11,San Carlos,13.0,50.0,Mendoza,351.0,91.0,San Carlos,50091.0
+13,9,10,San Martín,13.0,50.0,Mendoza,352.0,98.0,San Martín,50098.0
+13,16,12,San Rafael,13.0,50.0,Mendoza,353.0,105.0,San Rafael,50105.0
+13,14,10,Santa Rosa,13.0,50.0,Mendoza,354.0,112.0,Santa Rosa,50112.0
+13,12,11,Tunuyán,13.0,50.0,Mendoza,355.0,119.0,Tunuyán,50119.0
+13,8,11,Tupungato,13.0,50.0,Mendoza,356.0,126.0,Tupungato,50126.0
+14,11,0,25 De Mayo,14.0,54.0,Misiones,373.0,119.0,25 de Mayo,54119.0
+14,2,0,Apóstoles,14.0,54.0,Misiones,357.0,7.0,Apóstoles,54007.0
+14,10,0,Cainguas,14.0,54.0,Misiones,358.0,14.0,Cainguás,54014.0
+14,3,0,Candelaria,14.0,54.0,Misiones,359.0,21.0,Candelaria,54021.0
+14,1,0,Capital,14.0,54.0,Misiones,360.0,28.0,Capital,54028.0
+14,5,0,Concepción De La Sierra,14.0,54.0,Misiones,361.0,35.0,Concepción,54035.0
+14,14,0,El Dorado,14.0,54.0,Misiones,362.0,42.0,El Dorado,54042.0
+14,17,0,General Manuel Belgrano,14.0,54.0,Misiones,363.0,49.0,General Manuel Belgrano,54049.0
+14,13,0,Guaraní,14.0,54.0,Misiones,364.0,56.0,Guaraní,54056.0
+14,16,0,Iguazú,14.0,54.0,Misiones,365.0,63.0,Iguazú,54063.0
+14,4,0,Leandro N. Alem,14.0,54.0,Misiones,366.0,70.0,Leandro N. Alem,54070.0
+14,9,0,L. General San Martín,14.0,54.0,Misiones,367.0,77.0,Libertador General San Martín,54077.0
+14,12,0,Montecarlo,14.0,54.0,Misiones,368.0,84.0,Montecarlo,54084.0
+14,8,0,Oberá,14.0,54.0,Misiones,369.0,91.0,Oberá,54091.0
+14,7,0,San Ignacio,14.0,54.0,Misiones,370.0,98.0,San Ignacio,54098.0
+14,6,0,San Javier,14.0,54.0,Misiones,371.0,105.0,San Javier,54105.0
+14,15,0,San Pedro,14.0,54.0,Misiones,372.0,112.0,San Pedro,54112.0
+15,10,0,Aluminé,15.0,58.0,Neuquén,374.0,7.0,Aluminé,58007.0
+15,3,0,Añelo,15.0,58.0,Neuquén,375.0,14.0,Añelo,58014.0
+15,11,0,Catan Lil,15.0,58.0,Neuquén,376.0,21.0,Catan Lil,58021.0
+15,5,0,Chos Malal,15.0,58.0,Neuquén,379.0,42.0,Chos Malal,58042.0
+15,13,0,Collon Curá,15.0,58.0,Neuquén,377.0,28.0,Collón Curá,58028.0
+15,1,0,Confluencia,15.0,58.0,Neuquén,378.0,35.0,Confluencia,58035.0
+15,14,0,Huiliches,15.0,58.0,Neuquén,380.0,49.0,Huiliches,58049.0
+15,15,0,Lácar,15.0,58.0,Neuquén,381.0,56.0,Lacar,58056.0
+15,8,0,Loncopué,15.0,58.0,Neuquén,382.0,63.0,Loncopué,58063.0
+15,16,0,Los Lagos,15.0,58.0,Neuquén,383.0,70.0,Los Lagos,58070.0
+15,6,0,Minas,15.0,58.0,Neuquén,384.0,77.0,Minas,58077.0
+15,7,0,Ñorquín,15.0,58.0,Neuquén,385.0,84.0,Ñorquín,58084.0
+15,4,0,Pehuenches,15.0,58.0,Neuquén,386.0,91.0,Pehuenches,58091.0
+15,12,0,Picún Leufú,15.0,58.0,Neuquén,387.0,98.0,Picún Leufú,58098.0
+15,9,0,Picunches,15.0,58.0,Neuquén,388.0,105.0,Picunches,58105.0
+15,2,0,Zapala,15.0,58.0,Neuquén,389.0,112.0,Zapala,58112.0
+16,6,0,25 De Mayo,16.0,62.0,Río Negro,402.0,91.0,25 de Mayo,62091.0
+16,5,0,Nueve De Julio,16.0,62.0,Río Negro,396.0,49.0,9 de Julio,62049.0
+16,1,0,Adolfo Alsina,16.0,62.0,Río Negro,390.0,7.0,Adolfo Alsina,62007.0
+16,11,0,Avellaneda,16.0,62.0,Río Negro,391.0,14.0,Avellaneda,62014.0
+16,9,0,Bariloche,16.0,62.0,Río Negro,392.0,21.0,Bariloche,62021.0
+16,2,0,Conesa,16.0,62.0,Río Negro,393.0,28.0,Conesa,62028.0
+16,13,0,El Cuy,16.0,62.0,Río Negro,394.0,35.0,El Cuy,62035.0
+16,12,0,General Roca,16.0,62.0,Río Negro,395.0,42.0,General Roca,62042.0
+16,7,0,Ñorquinco,16.0,62.0,Río Negro,397.0,56.0,Ñorquinco,62056.0
+16,10,0,Pichi Mahuida,16.0,62.0,Río Negro,398.0,63.0,Pichi Mahuída,62063.0
+16,8,0,Pilcaniyeu,16.0,62.0,Río Negro,399.0,70.0,Pilnaniyeu,62070.0
+16,3,0,San Antonio Oeste,16.0,62.0,Río Negro,400.0,77.0,San Antonio,62077.0
+16,4,0,Valcheta,16.0,62.0,Río Negro,401.0,84.0,Valcheta,62084.0
+17,5,0,Anta,17.0,66.0,Salta,403.0,7.0,Anta,66007.0
+17,20,0,Cachi,17.0,66.0,Salta,404.0,14.0,Cachi,66014.0
+17,17,0,Cafayate,17.0,66.0,Salta,405.0,21.0,Cafayate,66021.0
+17,1,0,Capital,17.0,66.0,Salta,406.0,28.0,Capital,66028.0
+17,11,0,Cerrillos,17.0,66.0,Salta,407.0,35.0,Cerrillos,66035.0
+17,12,0,Chicoana,17.0,66.0,Salta,408.0,42.0,Chicoana,66042.0
+17,3,0,General Güemes,17.0,66.0,Salta,409.0,49.0,General Güemes,66049.0
+17,8,0,San Martín,17.0,66.0,Salta,410.0,56.0,General José de San Martín,66056.0
+17,14,0,Guachipas,17.0,66.0,Salta,411.0,63.0,Guachipas,66063.0
+17,9,0,Iruya,17.0,66.0,Salta,412.0,70.0,Iruya,66070.0
+17,2,0,La Caldera,17.0,66.0,Salta,413.0,77.0,La Caldera,66077.0
+17,16,0,La Candelaria,17.0,66.0,Salta,414.0,84.0,La Candelaria,66084.0
+17,22,0,La Poma,17.0,66.0,Salta,415.0,91.0,La Poma,66091.0
+17,13,0,La Viña,17.0,66.0,Salta,416.0,98.0,La Viña,66098.0
+17,23,0,Los Andes,17.0,66.0,Salta,417.0,105.0,Los Andes,66105.0
+17,4,0,Metán,17.0,66.0,Salta,418.0,112.0,Metán,66112.0
+17,19,0,Molinos,17.0,66.0,Salta,419.0,119.0,Molinos,66119.0
+17,7,0,Orán,17.0,66.0,Salta,420.0,126.0,Orán,66126.0
+17,6,0,Rivadavia,17.0,66.0,Salta,421.0,133.0,Rivadavia,66133.0
+17,15,0,Rosario De La Frontera,17.0,66.0,Salta,422.0,140.0,Rosario de la Frontera,66140.0
+17,21,0,Rosario De Lerma,17.0,66.0,Salta,423.0,147.0,Rosario de Lerma,66147.0
+17,18,0,San Carlos,17.0,66.0,Salta,424.0,154.0,San Carlos,66154.0
+17,10,0,Santa Victoria,17.0,66.0,Salta,425.0,161.0,Santa Victoria,66161.0
+18,10,0,Albardón,18.0,70.0,San Juan,426.0,7.0,Albardón,70007.0
+18,9,0,Angaco,18.0,70.0,San Juan,427.0,14.0,Angaco,70014.0
+18,19,0,Calingasta,18.0,70.0,San Juan,428.0,21.0,Calingasta,70021.0
+18,1,0,Capital,18.0,70.0,San Juan,429.0,28.0,Capital,70028.0
+18,15,0,Caucete,18.0,70.0,San Juan,430.0,35.0,Caucete,70035.0
+18,3,0,Chimbas,18.0,70.0,San Juan,431.0,42.0,Chimbas,70042.0
+18,18,0,Iglesia,18.0,70.0,San Juan,432.0,49.0,Iglesia,70049.0
+18,17,0,Jáchal,18.0,70.0,San Juan,433.0,56.0,Jáchal,70056.0
+18,7,0,Nueve De Julio,18.0,70.0,San Juan,434.0,63.0,9 de julio,70063.0
+18,12,0,Pocito,18.0,70.0,San Juan,435.0,70.0,Pocito,70070.0
+18,6,0,Rawson,18.0,70.0,San Juan,436.0,77.0,Rawson,70077.0
+18,4,0,Rivadavia,18.0,70.0,San Juan,437.0,84.0,Rivadavia,70084.0
+18,8,0,San Martín,18.0,70.0,San Juan,438.0,91.0,San Martín,70091.0
+18,2,0,Santa Lucía,18.0,70.0,San Juan,439.0,98.0,Santa Lucía,70098.0
+18,13,0,Sarmiento,18.0,70.0,San Juan,440.0,105.0,Sarmiento,70105.0
+18,11,0,Ullúm,18.0,70.0,San Juan,441.0,112.0,Ullum,70112.0
+18,16,0,Valle Fértil,18.0,70.0,San Juan,442.0,119.0,Valle Fértil,70119.0
+18,14,0,25 De Mayo,18.0,70.0,San Juan,443.0,126.0,25 de Mayo,70126.0
+18,5,0,Zonda,18.0,70.0,San Juan,444.0,133.0,Zonda,70133.0
+19,7,0,Ayacucho,19.0,74.0,San Luis,445.0,7.0,Ayacucho,74007.0
+19,8,0,Belgrano,19.0,74.0,San Luis,446.0,14.0,Belgrano,74014.0
+19,4,0,Chacabuco,19.0,74.0,San Luis,448.0,28.0,Chacabuco,74028.0
+19,2,0,Pringles,19.0,74.0,San Luis,447.0,21.0,Coronel Pringles,74021.0
+19,3,0,Pedernera,19.0,74.0,San Luis,449.0,35.0,General Pedernera,74035.0
+19,9,0,Gobernador Dupuy,19.0,74.0,San Luis,450.0,42.0,Gobernador Dupuy,74042.0
+19,6,0,Junín,19.0,74.0,San Luis,451.0,49.0,Junín,74049.0
+19,1,0,Pueyrredon,19.0,74.0,San Luis,452.0,56.0,La Capital,74056.0
+19,5,0,San Martín,19.0,74.0,San Luis,453.0,63.0,Libertador General San Martín,74063.0
+20,5,0,Corpen Aike,20.0,78.0,Santa Cruz,454.0,7.0,Corpen Aike,78007.0
+20,1,0,Deseado,20.0,78.0,Santa Cruz,455.0,14.0,Deseado,78014.0
+20,7,0,Güer Aike,20.0,78.0,Santa Cruz,456.0,21.0,Güer Aike,78021.0
+20,6,0,Lago Argentino,20.0,78.0,Santa Cruz,457.0,28.0,Lago Argentino,78028.0
+20,2,0,Lago Buenos Aires,20.0,78.0,Santa Cruz,458.0,35.0,Lago Buenos Aires,78035.0
+20,3,0,Magallanes,20.0,78.0,Santa Cruz,459.0,42.0,Magallanes,78042.0
+20,4,0,Río Chico,20.0,78.0,Santa Cruz,460.0,49.0,Río Chico,78049.0
+21,1,0,Belgrano,21.0,82.0,Santa Fe,461.0,7.0,Belgrano,82007.0
+21,2,0,Caseros,21.0,82.0,Santa Fe,462.0,14.0,Caseros,82014.0
+21,3,0,Castellanos,21.0,82.0,Santa Fe,463.0,21.0,Castellanos,82021.0
+21,4,0,Constitución,21.0,82.0,Santa Fe,464.0,28.0,Constitución,82028.0
+21,5,0,Garay,21.0,82.0,Santa Fe,465.0,35.0,Garay,82035.0
+21,6,0,General López,21.0,82.0,Santa Fe,466.0,42.0,General López,82042.0
+21,7,0,General Obligado,21.0,82.0,Santa Fe,467.0,49.0,General Obligado,82049.0
+21,8,0,Iriondo,21.0,82.0,Santa Fe,468.0,56.0,Iriondo,82056.0
+21,9,0,La Capital,21.0,82.0,Santa Fe,469.0,63.0,La Capital,82063.0
+21,10,0,,,,,,,,
+21,11,0,Las Colonias,21.0,82.0,Santa Fe,470.0,70.0,Las Colonias,82070.0
+21,12,0,Nueve De Julio,21.0,82.0,Santa Fe,471.0,77.0,9 de Julio,82077.0
+21,13,0,Rosario,21.0,82.0,Santa Fe,472.0,84.0,Rosario,82084.0
+21,14,0,,,,,,,,
+21,15,0,,,,,,,,
+21,16,0,San Cristóbal,21.0,82.0,Santa Fe,473.0,91.0,San Cristobal,82091.0
+21,17,0,San Javier,21.0,82.0,Santa Fe,474.0,98.0,San Javier,82098.0
+21,18,0,San Jerónimo,21.0,82.0,Santa Fe,475.0,105.0,San Jerónimo,82105.0
+21,19,0,San Justo,21.0,82.0,Santa Fe,476.0,112.0,San Justo,82112.0
+21,20,0,San Lorenzo,21.0,82.0,Santa Fe,477.0,119.0,San Lorenzo,82119.0
+21,21,0,San Martín,21.0,82.0,Santa Fe,478.0,126.0,San Martín,82126.0
+21,22,0,Vera,21.0,82.0,Santa Fe,479.0,133.0,Vera,82133.0
+22,1,0,Capital,22.0,86.0,Santiago del Estero,486.0,49.0,Capital,86049.0
+22,2,0,Avellaneda,22.0,86.0,Santiago del Estero,483.0,28.0,Avellaneda,86028.0
+22,3,0,Aguirre,22.0,86.0,Santiago del Estero,480.0,7.0,Aguirre,86007.0
+22,4,0,Alberdi,22.0,86.0,Santiago del Estero,481.0,14.0,Alberdi,86014.0
+22,5,0,Atamisqui,22.0,86.0,Santiago del Estero,482.0,21.0,Atamisqui,86021.0
+22,6,0,Banda,22.0,86.0,Santiago del Estero,484.0,35.0,Banda,86035.0
+22,7,0,Belgrano,22.0,86.0,Santiago del Estero,485.0,42.0,Belgrano,86042.0
+22,8,0,Copo,22.0,86.0,Santiago del Estero,487.0,56.0,Copo,86056.0
+22,9,0,Choya,22.0,86.0,Santiago del Estero,488.0,63.0,Choya,86063.0
+22,10,0,Figueroa,22.0,86.0,Santiago del Estero,489.0,70.0,Figueroa,86070.0
+22,11,0,Guasayán,22.0,86.0,Santiago del Estero,491.0,84.0,Guasayán,86084.0
+22,12,0,Jiménez,22.0,86.0,Santiago del Estero,492.0,91.0,Jiménez,86091.0
+22,13,0,Loreto,22.0,86.0,Santiago del Estero,494.0,105.0,Loreto,86105.0
+22,14,0,Juan F. Ibarra,22.0,86.0,Santiago del Estero,493.0,98.0,Juan F. Ibarra,86098.0
+22,15,0,Mitre,22.0,86.0,Santiago del Estero,495.0,112.0,Mitre,86112.0
+22,16,0,Moreno,22.0,86.0,Santiago del Estero,496.0,119.0,Moreno,86119.0
+22,17,0,Ojo De Agua,22.0,86.0,Santiago del Estero,497.0,126.0,Ojo de agua,86126.0
+22,18,0,Pellegrini,22.0,86.0,Santiago del Estero,498.0,133.0,Pelegrini,86133.0
+22,19,0,Quebrachos,22.0,86.0,Santiago del Estero,499.0,140.0,Quebrachos,86140.0
+22,20,0,Rivadavia,22.0,86.0,Santiago del Estero,501.0,154.0,Rivadavia,86154.0
+22,21,0,Robles,22.0,86.0,Santiago del Estero,502.0,161.0,Robles,86161.0
+22,22,0,Río Hondo,22.0,86.0,Santiago del Estero,500.0,147.0,Río Hondo,86147.0
+22,23,0,Silipica,22.0,86.0,Santiago del Estero,506.0,189.0,Silípica,86189.0
+22,24,0,San Martín,22.0,86.0,Santiago del Estero,504.0,175.0,San Martín,86175.0
+22,25,0,Salavina,22.0,86.0,Santiago del Estero,503.0,168.0,Salavina,86168.0
+22,26,0,Sarmiento,22.0,86.0,Santiago del Estero,505.0,182.0,Sarmiento,86182.0
+22,27,0,Taboada,22.0,86.0,Santiago del Estero,490.0,77.0,General Taboada,86077.0
+23,1,13,Capital,23.0,90.0,Tucumán,518.0,84.0,Capital,90084.0
+23,2,15,Lules,23.0,90.0,Tucumán,515.0,63.0,Lules,90063.0
+23,3,15,Famaillá,23.0,90.0,Tucumán,510.0,28.0,Famallá,90028.0
+23,4,15,Monteros,23.0,90.0,Tucumán,516.0,70.0,Monteros,90070.0
+23,5,15,Chicligasta,23.0,90.0,Tucumán,509.0,21.0,Chicligasta,90021.0
+23,6,15,Río Chico,23.0,90.0,Tucumán,517.0,77.0,Río Chico,90077.0
+23,7,15,Alberdi,23.0,90.0,Tucumán,512.0,42.0,Juan B. Alberdi,90042.0
+23,8,15,La Cocha,23.0,90.0,Tucumán,513.0,49.0,La Cocha,90049.0
+23,9,14,Graneros,23.0,90.0,Tucumán,511.0,35.0,Graneros,90035.0
+23,10,14,Simoca,23.0,90.0,Tucumán,519.0,91.0,Simoca,90091.0
+23,11,14,Leales,23.0,90.0,Tucumán,514.0,56.0,Leales,90056.0
+23,12,14,Cruz Alta,23.0,90.0,Tucumán,508.0,14.0,Cruz Alta,90014.0
+23,13,14,Burruyacu,23.0,90.0,Tucumán,507.0,7.0,Burruyacú,90007.0
+23,14,14,Trancas,23.0,90.0,Tucumán,522.0,112.0,Trancas,90112.0
+23,15,15,Yerba Buena,23.0,90.0,Tucumán,523.0,119.0,Yerba Buena,90119.0
+23,16,15,Tafí Viejo,23.0,90.0,Tucumán,521.0,105.0,Tafí Viejo,90105.0
+23,17,15,Tafí Del Valle,23.0,90.0,Tucumán,520.0,98.0,Tafí del Valle,90098.0
+24,1,0,Ushuaia,24.0,94.0,Tierra del Fuego,525.0,14.0,Ushuaia,94014.0
+24,2,0,Río Grande,24.0,94.0,Tierra del Fuego,524.0,7.0,Río Grande,94007.0
+24,3,0,Antártida Argentina,,,,,,,
+24,5,0,Tolhuin,,,,,,,
