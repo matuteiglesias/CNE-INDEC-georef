@@ -1,0 +1,528 @@
+codprov,coddepto,IN1,NAM,counts
+01,001,02007,Comuna 1,19
+01,002,02014,Comuna 2,10
+01,003,02021,Comuna 3,13
+01,004,02028,Comuna 4,15
+01,005,02035,Comuna 5,10
+01,006,02042,Comuna 6,7
+01,007,02049,Comuna 7,12
+01,008,02056,Comuna 8,4
+01,009,02063,Comuna 9,11
+01,010,02070,Comuna 10,11
+01,011,02077,Comuna 11,11
+01,012,02084,Comuna 12,10
+01,013,02091,Comuna 13,14
+01,014,02098,Comuna 14,10
+01,015,02105,Comuna 15,10
+02,001,06007,Adolfo Alsina,7
+02,002,06021,Alberti,6
+02,003,06028,Almirante Brown,10
+02,004,06035,Avellaneda,14
+02,005,06042,Ayacucho,11
+02,006,06049,Azul,12
+02,007,06056,Bahía Blanca,20
+02,008,06063,Balcarce,8
+02,009,06070,Baradero,9
+02,010,06077,Arrecifes,5
+02,011,06091,Berazategui,13
+02,012,06098,Berisso,4
+02,013,06105,Bolívar,10
+02,014,06112,Bragado,10
+02,015,06119,Brandsen,7
+02,016,06126,Campana,5
+02,017,06134,Cañuelas,8
+02,018,06140,Capitán Sarmiento,2
+02,019,06147,Carlos Casares,8
+02,020,06154,Carlos Tejedor,6
+02,021,06161,Carmen de Areco,3
+02,022,06602,Patagones,6
+02,023,06168,Castelli,3
+02,024,06175,Colón,4
+02,025,06189,Coronel Dorrego,10
+02,026,06196,Coronel Pringles,7
+02,027,06182,Coronel de Marina Leonardo Rosales,5
+02,028,06203,Coronel Suárez,12
+02,029,06210,Chacabuco,11
+02,030,06218,Chascomús,9
+02,031,06224,Chivilcoy,16
+02,032,06231,Daireaux,5
+02,033,06238,Dolores,4
+02,034,06245,Ensenada,4
+02,035,06252,Escobar,6
+02,036,06260,Esteban Echeverría,12
+02,037,06266,Exaltación de la Cruz,7
+02,038,06274,Florencio Varela,10
+02,039,06280,General Alvarado,5
+02,040,06287,General Alvear,3
+02,041,06294,General Arenales,7
+02,042,06301,General Belgrano,5
+02,043,06308,General Guido,3
+02,044,06322,General La Madrid,7
+02,045,06329,General Las Heras,3
+02,046,06336,General Lavalle,2
+02,047,06315,General Juan Madariaga,4
+02,048,06343,General Paz,8
+02,049,06351,General Pinto,6
+02,050,06357,General Pueyrredón,8
+02,051,06364,General Rodríguez,1
+02,052,06371,General San Martín,11
+02,053,06760,San Miguel,8
+02,054,06385,General Viamonte,7
+02,055,06392,General Villegas,12
+02,056,06014,Adolfo Gonzales Chaves,3
+02,057,06399,Guaminí,5
+02,058,06406,Hipólito Yrigoyen,3
+02,059,06084,Benito Juárez,7
+02,060,06413,Junín,13
+02,061,06427,La Matanza,24
+02,062,06434,Lanús,13
+02,063,60441,La Plata,64
+02,064,06448,Laprida,5
+02,065,06455,Las Flores,8
+02,066,06462,Leandro N. Alem,5
+02,067,06469,Lincoln,15
+02,068,06476,Lobería,7
+02,069,06483,Lobos,9
+02,070,06490,Lomas de Zamora,13
+02,071,06497,Luján,8
+02,072,06505,Magdalena,6
+02,073,06511,Maipú,4
+02,074,06518,Mar Chiquita,7
+02,075,06525,Marcos Paz,2
+02,076,06532,Mercedes,11
+02,077,06539,Merlo,6
+02,078,06547,Monte,7
+02,079,06560,Moreno,8
+02,080,06568,Morón,6
+02,081,06574,Navarro,10
+02,082,06581,Necochea,8
+02,083,06588,9 de Julio,15
+02,084,06595,Olavarría,24
+02,085,06609,Pehuajó,9
+02,086,06616,Pellegrini,1
+02,087,06623,Pergamino,20
+02,088,06630,Pila,3
+02,089,06638,Pilar,6
+02,090,06644,Pinamar,4
+02,091,06651,Puán,8
+02,092,06658,Quilmes,17
+02,093,06665,Ramallo,7
+02,094,06672,Rauch,8
+02,095,06679,Rivadavia,7
+02,096,06686,Rojas,8
+02,097,06693,Roque Pérez,6
+02,098,06700,Saavedra,6
+02,099,06707,Saladillo,8
+02,100,06721,Salliqueló,2
+02,101,06714,Salto,8
+02,102,06728,San Andrés de Giles,7
+02,103,06735,San Antonio de Areco,5
+02,104,06742,San Cayetano,5
+02,105,06749,San Fernando,15
+02,106,06756,San Isidro,10
+02,107,06763,San Nicolás,13
+02,108,06770,San Pedro,11
+02,109,06778,San Vicente,4
+02,110,06784,Suipacha,4
+02,111,06791,Tandil,8
+02,112,06798,Tapalqué,6
+02,113,06805,Tigre,8
+02,114,06819,Tornquist,5
+02,115,06826,Trenque Lauquen,9
+02,116,06812,Tordillo,1
+02,117,06833,Tres Arroyos,14
+02,118,06840,Tres de Febrero,8
+02,119,06420,La Costa,6
+02,120,06553,Monte Hermoso,1
+02,121,06854,25 de Mayo,12
+02,122,06861,Vicente López,9
+02,123,06868,Villa Gesell,1
+02,124,06875,Villarino,6
+02,125,06882,Zárate,10
+02,126,06847,Tres Lomas,2
+02,127,06277,Florentino Ameghino,3
+02,128,06648,Presidente Perón,4
+02,129,06412,José C. Paz,3
+02,130,06515,Malvinas Argentinas,8
+02,131,06655,Punta Indio,5
+02,132,06270,Ezeiza,3
+02,133,06410,Ituzaingó,3
+02,134,06408,Hurlingham,3
+02,135,06466,Lezama,1
+03,001,10049,Capital,9
+03,002,10042,Capayán,12
+03,003,10070,La Paz,11
+03,004,10014,Ancasti,11
+03,005,10056,El Alto,8
+03,006,10098,Santa Rosa,11
+03,007,10077,Paclín,7
+03,008,10112,Valle viejo,8
+03,009,10063,Fray Mamerto Esquiú,5
+03,010,10007,Ambato,8
+03,011,10084,Pomán,9
+03,012,10021,Andalgalá,11
+03,013,10035,Belén,16
+03,014,10028,Antofagasta de la Sierra,2
+03,015,10105,Tinogasta,16
+03,016,10091,Santa María,11
+04,000,14175,Tulumba,1
+04,001,14014,Capital,110
+04,002,14007,Calamuchita,28
+04,003,14021,Colón,24
+04,004,14028,Cruz del Eje,29
+04,005,14035,General Roca,14
+04,006,14042,General San Martín,19
+04,007,14049,Ischilín,14
+04,008,14056,Juárez Celman,17
+04,009,14063,Marcos Juárez,21
+04,010,14070,Minas,15
+04,011,14077,Pocho,9
+04,012,14091,Punilla,26
+04,013,14098,Río Cuarto,40
+04,014,14105,Río Primero,30
+04,015,14112,Río Seco,13
+04,016,14119,Río Segundo,22
+04,017,14084,Presidente Roque Sáenz Peña,10
+04,018,14126,San Alberto,21
+04,019,14133,San Javier,14
+04,020,14140,San Justo,46
+04,021,14147,Santa María,29
+04,022,14154,Sobremonte,5
+04,023,14161,Tercero Arriba,18
+04,024,14168,Totoral,12
+04,025,14175,Tulumba,14
+04,026,14182,Unión,29
+05,001,18021,Capital,19
+05,002,18070,Goya,9
+05,003,18035,Curuzú Cuatiá,6
+05,004,18035,Curuzú Cuatiá,7
+05,005,18049,Esquina,7
+05,006,18091,Lavalle,6
+05,007,18168,Santo Tomé,9
+05,008,18119,Paso de los Libres,6
+05,009,18112,Monte Caseros,6
+05,010,18140,San Luis del Palmar,7
+05,011,18007,Bella Vista,5
+05,012,18042,Empedrado,5
+05,013,18161,San Roque,6
+05,014,18063,General Paz,9
+05,015,18126,Saladas,5
+05,016,18147,San Martín,6
+05,017,18028,Concepción,7
+05,018,18098,Mburucuyá,4
+05,019,18084,Ituzaingó,10
+05,020,18175,Sauce,5
+05,021,18133,San Cosme,8
+05,022,18056,General Alvear,4
+05,023,18154,San Miguel,5
+05,024,18077,Itatí,4
+05,025,18014,Berón de Astrada,3
+06,001,22140,San Fernando,36
+06,002,22126,1ro. de Mayo,4
+06,003,22077,Libertad,4
+06,004,22056,General Donovan,4
+06,005,22154,Sargento Cabral,4
+06,006,22119,Presidencia de la Plaza,4
+06,007,22014,Bermejo,9
+06,008,22084,Libertador General San Martín,10
+06,009,22161,Tapenagá,5
+06,010,22147,San Lorenzo,3
+06,011,22098,Mayor Luis Jorge Fontana,7
+06,012,22112,O'Higgins,4
+06,013,22021,Comandante Fernández,11
+06,014,22133,Quitilipi,4
+06,015,22168,25 de Mayo,5
+06,016,22091,Maipú,3
+06,017,22070,Independencia,5
+06,018,22049,General Belgrano,2
+06,019,22105,9 de Julio,2
+06,020,22028,Chacabuco,2
+06,021,22036,12 de Octubre,5
+06,022,22039,2 de Abril,1
+06,023,22043,Fray Justo Santa María de Oro,2
+06,024,22007,Almirante Brown,4
+06,025,22063,General Güemes,12
+07,001,26077,Rawson,24
+07,002,26007,Biedma,7
+07,003,26105,Telsen,2
+07,004,26049,Gastre,3
+07,005,26014,Cushamen,11
+07,006,26035,Futaleufú,13
+07,007,26056,Languiñeo,4
+07,008,26098,Tehuelches,4
+07,009,26070,Paso de Indios,2
+07,010,26063,Mártires,2
+07,011,26028,Florentino Ameghino,1
+07,012,26042,Gaiman,6
+07,013,26084,Río Senguer,7
+07,014,26091,Sarmiento,3
+07,015,26021,Escalante,24
+08,001,30084,Paraná,58
+08,003,30070,La Paz,18
+08,004,30021,Diamante,20
+08,005,30105,Victoria,13
+08,006,30077,Nogoyá,17
+08,007,30049,Gualeguay,13
+08,008,30091,Tala,16
+08,009,30098,Uruguay,27
+08,010,30056,Gualeguaychú,27
+08,011,30063,Islas del Ibicuy,7
+08,012,30113,Villaguay,16
+08,013,30015,Concordia,22
+08,014,30035,Federal,14
+08,015,30008,Colón,21
+08,016,30042,Feliciano,7
+08,017,30028,Federación,16
+08,018,30088,San Salvador,6
+09,001,34014,Formosa,22
+09,002,34021,Laishí,7
+09,003,34049,Pilcomayo,11
+09,004,34056,Pirané,18
+09,005,34042,Pilagás,8
+09,006,34035,Patiño,20
+09,007,34007,Bermejo,11
+09,008,34028,Matacos,2
+09,009,34063,Ramón Lista,8
+10,001,38021,Dr. Manuel Belgrano,22
+10,002,38042,Palpalá,3
+10,003,38056,San Antonio,4
+10,004,38014,El Carmen,9
+10,005,38063,San Pedro,11
+10,006,38070,Santa Bárbara,6
+10,007,38035,Ledesma,10
+10,008,38105,Valle Grande,8
+10,009,38098,Tumbaya,7
+10,010,38094,Tilcara,9
+10,011,38028,Humahuaca,14
+10,012,38007,Cochinoca,13
+10,013,38049,Rinconada,5
+10,014,38077,Santa Catalina,11
+10,015,38112,Yavi,7
+10,016,38084,Susques,7
+11,001,42007,Atreucó,5
+11,002,42021,Capital,3
+11,003,42014,Caleu Caleu,1
+11,004,42028,Catriló,4
+11,005,42049,Chalileo,2
+11,006,42056,Chapaleufú,6
+11,007,42063,Chical Co,2
+11,008,42035,Conhelo,6
+11,009,42042,Curacó,2
+11,010,42070,Guatraché,5
+11,011,42077,Hucal,4
+11,012,42098,Loventué,5
+11,013,42084,Lihuel Calel,1
+11,014,42091,Limay Mahuida,2
+11,015,42105,Maracó,6
+11,016,42112,Puelén,2
+11,017,42119,Quemú Quemú,4
+11,018,42126,Rancul,7
+11,019,42133,Realicó,7
+11,020,42140,Toay,4
+11,021,42147,Trenel,3
+11,022,42154,Utracán,6
+12,001,46014,Capital,27
+12,002,46126,Sanagasta,1
+12,003,46021,Castro Barros,8
+12,004,46007,Arauco,7
+12,005,46119,San Blas de Los Sauces,6
+12,006,46042,Chilecito,11
+12,007,46049,Famatina,8
+12,008,46028,Coronel Felipe Varela,11
+12,009,46077,General Lamadrid,1
+12,010,46098,Vinchina,4
+12,011,46105,Independencia,3
+12,012,46035,Chamical,5
+12,013,46056,General  Angel V. Peñaloza,7
+12,014,46063,General Belgrano,6
+12,015,46070,General Juan F. Quiroga,7
+12,016,46084,General Ocampo,7
+12,017,46112,Rosario Vera Peñaloza,13
+12,018,46091,General San Martín,10
+13,001,50007,Capital,27
+13,002,50021,Godoy Cruz,9
+13,003,50028,Guaymallén,14
+13,004,50049,Las Heras,16
+13,005,50056,Lavalle,7
+13,006,50070,Maipú,14
+13,007,50063,Cuyo,11
+13,008,50126,Tupungato,7
+13,009,50098,San Martín,10
+13,010,50035,Junín,6
+13,011,50084,Rivadavia,8
+13,012,50119,Tunuyán,8
+13,013,50091,San Carlos,6
+13,014,50112,Santa Rosa,7
+13,015,50042,La Paz,3
+13,016,50105,San Rafael,22
+13,017,50077,Malargüe,6
+13,018,50014,General Alvear,8
+14,007,54007,Apóstoles,4
+14,014,54014,Cainguás,5
+14,021,54021,Candelaria,7
+14,028,54028,Capital,12
+14,035,54035,Concepción,2
+14,042,54042,Eldorado,5
+14,049,54049,General Manuel Belgrano,3
+14,056,54056,Guaraní,2
+14,063,54063,Iguazú,4
+14,070,54070,Leandro N. Alem,8
+14,077,54077,Libertador General San Martín,6
+14,084,54084,Montecarlo,3
+14,091,54091,Oberá,9
+14,098,54098,San Ignacio,8
+14,105,54105,San Javier,4
+14,112,54112,San Pedro,4
+14,119,54119,25de Mayo,3
+15,001,58035,Confluencia,33
+15,002,58112,Zapala,11
+15,003,58014,Añelo,5
+15,004,58091,Pehuenches,6
+15,005,58042,Chos Malal,9
+15,006,58077,Minas,9
+15,007,58084,Ñorquín,9
+15,008,58063,Loncopué,7
+15,009,58105,Picunches,6
+15,010,58007,Aluminé,10
+15,011,58021,Catán Lil,8
+15,012,58098,Picún Leufú,3
+15,013,58028,Collón Curá,6
+15,014,58049,Huiliches,6
+15,015,58056,Lácar,10
+15,016,58070,Los Lagos,5
+16,001,62007,Adolfo Alsina,25
+16,002,62028,Conesa,1
+16,003,62077,San Antonio,4
+16,004,62084,Valcheta,1
+16,005,62049,9 de julio,2
+16,006,62091,25 de Mayo,7
+16,007,62056,Ñorquinco,4
+16,008,62070,Pilcaniyeu,6
+16,009,62021,Bariloche,34
+16,010,62063,Pichi Mahuida,1
+16,011,62014,Avellaneda,8
+16,012,62042,General Roca,51
+16,013,62035,El Cuy,7
+17,001,66028,Capital,57
+17,002,66077,La Caldera,5
+17,003,66049,General Güemes,8
+17,004,66112,Metán,13
+17,005,66007,Anta,22
+17,006,66133,Rivadavia,24
+17,007,66126,Orán,20
+17,008,66056,General José de San Martín,25
+17,009,66070,Iruya,15
+17,010,66161,Santa Victoria,15
+17,011,66035,Cerrillos,13
+17,012,66042,Chicoana,9
+17,013,66098,La Viña,3
+17,014,66063,Guachipas,1
+17,015,66140,Rosario de la Frontera,17
+17,016,66084,La Candelaria,4
+17,017,66021,Cafayate,7
+17,018,66154,San Carlos,10
+17,019,66119,Molinos,7
+17,020,66014,Cachi,8
+17,021,66147,Rosario de Lerma,15
+17,022,66091,La Poma,3
+17,023,66105,Los Andes,4
+18,007,70007,Albardón,7
+18,014,70014,Angaco,7
+18,021,70021,Calingasta,4
+18,028,70028,Capital,31
+18,035,70035,Caucete,13
+18,042,70042,Chimbas,6
+18,049,70049,Iglesia,5
+18,056,70056,Jachal,14
+18,063,70063,9 de Julio,2
+18,070,70070,Pocito,6
+18,077,70077,Rawson,8
+18,084,70084,Rivadavia,8
+18,091,70091,San Martín,3
+18,098,70098,Santa Lucía,7
+18,105,70105,Sarmiento,11
+18,112,70112,Ullum,2
+18,119,70119,Valle Fértil,7
+18,126,70126,25 de Mayo,4
+18,133,70133,Zonda,1
+19,001,74056,Juan Martín de Pueyrredón,39
+19,002,74021,Coronel Pringles,13
+19,003,74035,General Pedernera,34
+19,004,74028,Chacabuco,9
+19,005,74063,Libertador General San Martín,7
+19,006,74049,Junín,13
+19,007,74007,Ayacucho,5
+19,008,74014,Belgrano,4
+19,009,74042,Gobernador Dupuy,9
+20,001,78014,Deseado,9
+20,002,78035,Lago Buenos Aires,2
+20,003,78042,Magallanes,1
+20,004,78049,Río Chico,2
+20,005,78007,Corpen Aike,2
+20,006,78028,Lago Argentino,3
+20,007,78021,Güer Aike,4
+21,001,82007,Belgrano,6
+21,002,82014,Caseros,13
+21,003,82021,Castellanos,49
+21,004,82028,Constitución,19
+21,005,82035,Garay,9
+21,006,82042,General López,33
+21,007,82049,General Obligado,45
+21,008,82056,Iriondo,13
+21,009,82063,La Capital,43
+21,011,82070,Las Colonias,41
+21,012,82077,9 de Julio,12
+21,013,82084,Rosario,84
+21,016,82091,San Cristóbal,34
+21,017,82098,San Javier,12
+21,018,82105,San Jerónimo,23
+21,019,82112,San Justo,21
+21,020,82119,San Lorenzo,16
+21,021,82126,San Martín,17
+21,022,82133,Vera,22
+22,001,86049,Capital,25
+22,002,86028,Avellaneda,9
+22,003,86007,Aguirre,4
+22,004,86014,Alberdi,6
+22,005,86021,Atamisqui,7
+22,006,86035,Banda,24
+22,007,86042,Belgrano,4
+22,008,86056,Copo,7
+22,009,86063,Choya,13
+22,010,86070,Figueroa,11
+22,011,86084,Guasayán,7
+22,012,86091,Jiménez,10
+22,013,86105,Loreto,12
+22,014,86098,Juan F. Ibarra,9
+22,015,86112,Mitre,2
+22,016,86119,Moreno,13
+22,017,86126,Ojo de Agua,7
+22,018,86133,Pellegrini,11
+22,019,86140,Quebrachos,10
+22,020,86154,Rivadavia,4
+22,021,86161,Robles,9
+22,022,86147,Río Hondo,15
+22,023,86189,Silipica,5
+22,024,86175,San Martín,8
+22,025,86168,Salavina,10
+22,026,86182,Sarmiento,4
+22,027,86077,General Taboada,7
+23,001,90084,Capital,47
+23,002,90063,Lules,8
+23,003,90028,Famaillá,10
+23,004,90070,Monteros,19
+23,005,90021,Chicligasta,13
+23,006,90077,Río Chico,8
+23,007,90042,Juan Bautista Alberdi,5
+23,008,90049,La Cocha,9
+23,009,90035,Graneros,8
+23,010,90091,Simoca,20
+23,011,90056,Leales,20
+23,012,90014,Cruz Alta,32
+23,013,90007,Burruyacú,26
+23,014,90112,Trancas,15
+23,015,90119,Yerba Buena,7
+23,016,90105,Tafí Viejo,14
+23,017,90098,Tafí del Valle,5
+24,01,94014,Ushuaia,13
+24,02,94007,Río Grande,9
