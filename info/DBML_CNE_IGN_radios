@@ -1,0 +1,46 @@
+Table circ_dpto_CNE_IGN {
+  codprov int
+  coddepto int
+  circuito int
+  IN1 int
+  NAM varchar
+
+  Primary Key (codprov, coddepto, circuito)
+}
+
+Table radio_circ_IGN {
+  PROV_ int
+  DEPTO_ int
+  COD_2010 int
+  codprov int [ref: > circ_dpto_CNE_IGN.codprov]
+  coddepto int [ref: > circ_dpto_CNE_IGN.coddepto]
+  circuito int [ref: > circ_dpto_CNE_IGN.circuito]
+  IN1 int
+  NAM varchar
+
+  Primary Key (PROV_, DEPTO_, COD_2010)
+}
+
+Table dpto_CNE_IGN_ref {
+  codprov int
+  coddepto int
+  IN1 int
+  NAM varchar
+  counts int
+
+  Primary Key (codprov, coddepto)
+  Foreign Key (codprov, coddepto) References circ_dpto_CNE_IGN(codprov, coddepto)
+}
+
+Table radio_dpto_CNE_IGN {
+  PROV_ int
+  DEPTO_ int
+  FRACC_ int
+  COD_2010 int
+  IN1 int
+  NAM varchar
+
+  Primary Key (PROV_, DEPTO_, COD_2010)
+  Foreign Key (PROV_, DEPTO_, COD_2010) References radio_circ_IGN(PROV_, DEPTO_, COD_2010)
+}
+
